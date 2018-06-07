@@ -4,7 +4,7 @@
       "__metadata": {
         "id": "Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)",
         "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)",
-        "etag": "\"5\"",
+        "etag": "\"7\"",
         "type": "SP.Data.BannerDestaqueListItem"
       },
       "FirstUniqueAncestorSecurableObject": {
@@ -69,9 +69,9 @@
         "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/destaque-laboratorios.png"
       },
       "DataPublicacao": "2018-06-07T03:02:00Z",
-      "DataExpiracao": "2019-06-07T03:00:00Z",
+      "DataExpiracao": "2116-06-07T03:00:00Z",
       "ID": 3,
-      "Modified": "2018-06-07T13:56:59Z",
+      "Modified": "2018-06-07T15:23:44Z",
       "Created": "2017-08-22T12:45:55Z",
       "AuthorId": 111,
       "EditorId": 111,
@@ -82,7 +82,7 @@
       "__metadata": {
         "id": "Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)",
         "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)",
-        "etag": "\"6\"",
+        "etag": "\"8\"",
         "type": "SP.Data.BannerDestaqueListItem"
       },
       "FirstUniqueAncestorSecurableObject": {
@@ -147,9 +147,9 @@
         "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/destaque-mestrado.png"
       },
       "DataPublicacao": "2018-06-07T03:01:00Z",
-      "DataExpiracao": "2019-06-07T03:00:00Z",
+      "DataExpiracao": "2116-06-07T03:00:00Z",
       "ID": 2,
-      "Modified": "2018-06-07T13:56:54Z",
+      "Modified": "2018-06-07T15:23:44Z",
       "Created": "2017-08-22T12:45:11Z",
       "AuthorId": 111,
       "EditorId": 111,
@@ -160,7 +160,7 @@
       "__metadata": {
         "id": "Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)",
         "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)",
-        "etag": "\"6\"",
+        "etag": "\"8\"",
         "type": "SP.Data.BannerDestaqueListItem"
       },
       "FirstUniqueAncestorSecurableObject": {
@@ -225,9 +225,9 @@
         "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/destaque-cooperacao.png"
       },
       "DataPublicacao": "2018-06-07T03:00:00Z",
-      "DataExpiracao": "2019-06-07T03:00:00Z",
+      "DataExpiracao": "2116-06-07T03:00:00Z",
       "ID": 1,
-      "Modified": "2018-06-07T13:56:34Z",
+      "Modified": "2018-06-07T15:23:44Z",
       "Created": "2017-08-22T12:44:34Z",
       "AuthorId": 111,
       "EditorId": 111,
