@@ -1,0 +1,257 @@
+.center
+  text-align: center
+.bottom
+  align-self: flex-end
+  justify-self: flex-end
+  margin-top: auto
+.full-height
+  min-height: 100%
+.content
+  &__wrap
+.home
+  display: flex
+  justify-content: center
+  flex-wrap: wrap
+  margin: 0 auto
+  width: 100vw
+  min-height: 40vh
+  +tablet
+    flex-wrap: nowrap
+    align-items: flex-end
+    min-height: 30vh
+  +desktop
+    align-items: flex-start
+    min-height: 5vh
+  +widescreen
+    align-items: center
+  &__bg
+    background-image: url("#{$assetsImg}bgrad.png")
+  // TOPO
+  &__onca
+    position: relative
+    background-image: url("#{$assetsImg}onca.png")
+    background-repeat: no-repeat
+    background-size: cover
+    // height: 26.67rem
+    height: 15.67rem
+    flex: 0 0 100%
+    opacity: .3
+    +x-small-height
+      height: 18.67rem
+    +x-small-big-height
+      height: 26.67rem
+    +x-small-above-600px
+      height: 36.67rem
+    +x-small-above-600px-height
+      height: 26.67rem
+    +super-tablet-only
+    +tablet
+      flex: 0 0 45%
+      height: 15.67rem
+      position: initial
+      opacity: 1
+    +desktop
+      height: 17.67rem
+    +widescreen
+      height: 21.67rem
+  &__title
+    position: absolute
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+    margin: 0
+    margin-left: auto
+    -webkit-margin-before: 0
+    -webkit-margin-after: 0
+    -webkit-margin-start: 0
+    -webkit-margin-end: 0
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    background: transparent
+    +x-small
+      transform: translate(-50%, -33%)
+    +x-small-height
+      transform: translate(-50%, -60%)
+    +x-small-above-600px
+      transform: translate(-50%, -60%)
+    +x-small-above-600px-height
+      transform: translate(-50%, -10%)
+    +tablet
+      position: initial
+      top: initial
+      left: initial
+      transform: initial
+    &-brasao
+    &-text
+      &--link
+        cursor: pointer
+        font-size: 2.5rem
+        text-align: left
+        text-decoration: none
+        font-family: rotisSans
+        color: $white
+        display: flex
+        align-items: center
+        flex-direction: column
+        +desktop
+          align-items: flex-start
+
+  // CONTEÚDO
+  &__content
+    margin: 2rem
+    width: 100%
+    display: flex
+    flex-wrap: wrap
+    +desktop
+      flex-direction: row
+      flex-wrap: nowrap
+      align-items: flex-start
+      justify-content: center
+      padding: 1rem
+      padding-bottom: 2rem
+    &--dupla
+      flex-basis: 100%
+      margin: 2rem 0
+    &>*
+      // margin: 0 auto
+      &:not(:last-child)
+        // margin-right: 1rem
+    &-heading
+      font-family: rotisSans
+      margin: 1rem 0
+      font-size: 1.5rem
+      color: $teal
+      font-weight: 100
+      text-transform: uppercase
+      text-align: left
+
+    // NOTÍCIAS
+    &-noticias
+      flex: 1 1 auto
+      padding: 1rem
+      +desktop
+        flex-basis: 30%
+        padding: 0
+      &-img
+        margin: 0
+        &:not(:last-of-type)
+          margin: 0 0 2rem 0
+        & figcaption
+          margin: .5rem auto
+          font-size: .9rem
+          color: $gray-600
+      &--aberta
+        flex-basis: 65%
+        display: flex
+        flex-direction: column
+        &--menu
+          flex-basis: 35%
+
+      &-leia-mais
+        & a:link,
+        & a:visited
+          color: $teal
+          font-size: .9rem
+          padding: .9rem 0
+          text-decoration: none
+          cursor: pointer
+          transition: all .2s
+          &:hover,
+          &:active
+            font-size: 1.02rem
+            padding-top: 0
+
+    // DESTAQUES
+    &-destaques
+      +x-small-above-400px
+        display: flex
+        flex-direction: column
+        align-items: center
+        flex-basis: 100%
+      +desktop
+        flex-basis: 40%
+      h3
+        padding-left: 2rem
+        +x-small-above-400px
+          align-self: flex-start
+          margin: 1rem 0
+      &-img
+        margin: 0 auto
+        text-align: center
+        min-width: 23rem
+        & figcaption
+          font-size: 1rem
+          color: $gray-600
+          text-align: center
+          // margin: 1rem auto
+          display: flex
+          align-items: center
+          min-height: 4rem
+        +x-small-above-400px
+          width: 90%
+      &-button
+        display: flex
+        justify-content: center
+        &>*
+          color: $teal
+          fill: currentColor
+          width: 3.125rem
+          height: 3.125rem
+          border: 1px solid currentColor
+          padding: .8rem
+          display: block
+        &-1
+          transform: rotate(-180deg)
+        &-2
+          border-left: none !important
+
+    // EVENTOS
+    &-eventos
+      padding: 1rem
+      flex-basis: 100%
+      +desktop
+        flex-basis: 30%
+        padding: 0
+      &-list
+        list-style: none
+        padding: 0
+        margin: 0
+        margin-bottom: 1rem
+      &-link
+        display: flex
+        align-items: center
+        transition: all .2s
+        &:link,
+        &:visited
+          color: $teal
+          text-decoration: none
+          font-size: .9rem
+        &:hover,
+        &:active
+          color: $gray-600
+          transform: scale(1.1) translateX(1.1rem)
+        &::before
+          content: ""
+          display: inline-block;
+          background-image: url("#{$assetsImg}SVG/date.svg")
+          background-repeat: no-repeat;
+          margin-right: 1rem
+          width: 2.2rem
+          height: 2rem
+      &-item
+        &:not(:last-of-type)
+          margin-bottom: 2rem
+
+.noticias
+  &__wrap
+    display: flex
+    flex-direction: column
+    align-content: center
+    align-items: center
+    max-width: 345px
+    & .home__content-noticias-img
+      display: flex
+      flex-direction: column
+

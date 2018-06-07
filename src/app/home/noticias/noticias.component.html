@@ -1,0 +1,24 @@
+<h3 class="home__content-heading">
+  Notícias
+</h3>
+
+<div *ngIf="noticias" class="noticias__wrap">
+  <figure *ngFor="let noticia of noticias" class="home__content-noticias-img">
+    <img class="img-fluid" [src]="noticia.imagem.Url" alt="">
+    <figcaption>
+      {{noticia.Title}}
+    </figcaption>
+    <div *ngIf="noticia.Leia_x0020_Mais === 'Sim'" (click)="clicada(noticia.ID)" class="home__content-noticias-leia-mais">
+      <a href="#">Leia Mais &rarr;</a>
+    </div>
+    <div *ngIf="noticia.Leia_x0020_Mais === 'Não' && noticia.UrlAbrirNovaJanela !== '#' && noticia.UrlAbrirNovaJanela !== '/#' && noticia.UrlAbrirNovaJanela !== '\#' && noticia.UrlAbrirNovaJanela !== '' && noticia.UrlAbrirNovaJanela !== null && noticia.UrlAbrirNovaJanela !== 'null'"
+      class="home__content-noticias-leia-mais">
+      <a target="" [target]="(noticia.AbrirNovaPagina === 'Sim'? '_blank':  '_self')" [href]="noticia.UrlAbrirNovaJanela">Acesse &rarr;</a>
+    </div>
+  </figure>
+</div>
+<div *ngIf="!noticias">
+  <div class="alert alert-danger" role="alert">
+    Desculpe. Nenhuma notícia publicada.
+  </div>
+</div>

@@ -1,0 +1,89 @@
+@import '/assets/css/flexbox.css';
+// DEFAULTS GERAIS
+.img-fluid
+max-width: 100%
+
+
+// DEFAULT INTERNAS
+.internas
+display: flex
+margin: 0
+width: 90vw
+// TOPO
+&__onca
+  background-image: url("#{$assets}oncaxs.png")
+  background-repeat: no-repeat
+  background-position-x: center
+  flex: 0 0 50%
+  min-height: 12rem
+  display: flex
+&__title
+  display: flex
+  justify-content: center
+  align-items: center
+  &-brasao
+    width: 6rem
+    height: 6rem
+    margin-top: -.65rem
+    margin-right: 1rem
+  &-text
+    &--link
+      cursor: pointer
+      font-size: 2rem
+      text-align: left
+      text-decoration: none
+      font-family: rotisSans
+      color: $white
+// CONTEÚDO      
+&__content
+  background-color: $white
+  // width: 95%
+  // margin: 0 auto
+  // display: flex
+  // padding: 2rem
+  &>*
+    flex: 0 0 33.333333333333%
+    margin: 0 auto
+  &-heading
+    font-family: rotisSans
+    font-size: 1.5rem 
+    margin: 0 0 2rem 0
+    color: $teal
+    font-weight: 100
+    text-transform: uppercase
+&__sidebar
+  flex: 0 0 25%
+  margin: 0
+  margin-right: 2rem
+  &-title
+    font-size: 1.2rem
+    margin: 0 0 2rem 0
+    color: $teal
+    text-transform: uppercase
+    font-weight: 100
+  &-list 
+    margin: 0
+    padding: 0
+    list-style: none
+  &-item 
+    display: block
+    &:not(:last-of-type)
+      padding: 1rem 0
+      border-bottom: 1px solid rgba($gray-900, .15)
+    &:last-of-type
+      padding-top: 1rem
+&__main
+  margin: 0
+  &-title
+    font-size: 2rem
+    margin: 0 0 2rem 0
+    color: $teal
+    text-transform: uppercase
+    font-weight: 100
+  &-text 
+    display: flex
+    & img 
+      min-width: 100px
+      min-height: 100px
+    &>*
+      flex: 0 0 100%

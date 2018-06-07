@@ -1,0 +1,239 @@
+{
+  "d": {
+    "results": [{
+      "__metadata": {
+        "id": "Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)",
+        "etag": "\"5\"",
+        "type": "SP.Data.BannerDestaqueListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(3)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 3,
+      "ContentTypeId": "0x0100456AD8BDE5A16642B9FF460B0A5755B6",
+      "Title": "Visitas t\u00e9cnicas e sa\u00eddas de campo",
+      "imagem": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "Visitas t\u00e9cnicas e sa\u00eddas de campo",
+        "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/destaque-laboratorios.png"
+      },
+      "DataPublicacao": "2018-06-07T03:02:00Z",
+      "DataExpiracao": "2019-06-07T03:00:00Z",
+      "ID": 3,
+      "Modified": "2018-06-07T13:56:59Z",
+      "Created": "2017-08-22T12:45:55Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "9b20c38e-4d14-470c-854a-fd12b498365b"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)",
+        "etag": "\"6\"",
+        "type": "SP.Data.BannerDestaqueListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(2)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 2,
+      "ContentTypeId": "0x0100456AD8BDE5A16642B9FF460B0A5755B6",
+      "Title": "Laborat\u00f3rios amplos e com equipamentos de \u00faltima gera\u00e7\u00e3o",
+      "imagem": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "Laborat\u00f3rios amplos e com equipamentos de \u00faltima gera\u00e7\u00e3o",
+        "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/destaque-mestrado.png"
+      },
+      "DataPublicacao": "2018-06-07T03:01:00Z",
+      "DataExpiracao": "2019-06-07T03:00:00Z",
+      "ID": 2,
+      "Modified": "2018-06-07T13:56:54Z",
+      "Created": "2017-08-22T12:45:11Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "32d1ff79-af1d-48bd-8649-456da437e599"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)",
+        "etag": "\"6\"",
+        "type": "SP.Data.BannerDestaqueListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'8360ffcd-c7f9-4c46-a1e5-d095d2807a87')/Items(1)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 1,
+      "ContentTypeId": "0x0100456AD8BDE5A16642B9FF460B0A5755B6",
+      "Title": "Ampla capilaridade por meio de conv\u00eanios e coopera\u00e7\u00e3o",
+      "imagem": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "Ampla capilaridade por meio de conv\u00eanios e coopera\u00e7\u00e3o",
+        "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/destaque-cooperacao.png"
+      },
+      "DataPublicacao": "2018-06-07T03:00:00Z",
+      "DataExpiracao": "2019-06-07T03:00:00Z",
+      "ID": 1,
+      "Modified": "2018-06-07T13:56:34Z",
+      "Created": "2017-08-22T12:44:34Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "f283b156-0ee2-42cc-bae2-d73447d7dc2e"
+    }]
+  }
+}

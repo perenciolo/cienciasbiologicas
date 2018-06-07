@@ -1,0 +1,2164 @@
+{
+  "d": {
+    "MenuState": {
+      "__metadata": {
+        "type": "SP.MenuState"
+      },
+      "FriendlyUrlPrefix": "",
+      "Nodes": {
+        "__metadata": {
+          "type": "Collection(SP.MenuNode)"
+        },
+        "results": [{
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2089",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2089",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/",
+          "Title": "Home"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": "_blank",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2007",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2007",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "http://www.icbs.pucminas.br/",
+          "Title": "O ICBS"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Area",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "2d3fa60c-2265-4ad1-99c4-e58a374f8492,2008",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/DEPARTAMENTO",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/departamento",
+          "Title": "O Departamento"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2088",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2088",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/odepartamento",
+          "Title": "O Departamento"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Area",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "8010a620-80d8-4faf-ae19-6c0f43b5a81c,2009",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/GRADUACAO",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/graduacao",
+          "Title": "Gradua\u00e7\u00e3o"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2080",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2080",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/agraduacao",
+          "Title": "Gradua\u00e7\u00e3o"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Heading",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2010",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2010",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": [{
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2039",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2039",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://www1.pucminas.br/pos/biologia/destaques.php",
+              "Title": "Mestrado em Biologia dos Vertebrados"
+            }]
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas",
+          "Title": "P\u00f3s-Gradua\u00e7\u00e3o"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Area",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "bad37bfb-6acd-41b1-b08d-6deccb34421c,2011",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/infraestrutura",
+          "Title": "Infraestrutura"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2081",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2081",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/nossainfraestrutura",
+          "Title": "Infraestrutura"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Area",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "f58e8b5b-1a57-4092-bf8d-5a36d3bac6f5,2012",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PROJETOS",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/projetos",
+          "Title": "Pesquisa e Publica\u00e7\u00f5es"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2082",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2082",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/apesquisa",
+          "Title": "Pesquisa e Publica\u00e7\u00f5es"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Area",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "cac21e6b-c5e6-4d0a-b1e6-2e42730d1093,2013",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/EXTENSAO",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/extensao",
+          "Title": "Extens\u00e3o"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2083",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2083",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/aextensao",
+          "Title": "Extens\u00e3o"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Area",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "af2f6213-95b8-4784-9ec5-2c6cde4053f4,2014",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/OPORTUNIDADES",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/oportunidades",
+          "Title": "Oportunidades"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2084",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2084",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/asoportunidades",
+          "Title": "Oportunidades"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Heading",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2015",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas?SPNavigationNodeId=2015",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": [{
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2040",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2040",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "https://www.pucminas.br/Paginas/default.aspx",
+              "Title": "Portal PUC Minas"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2041",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2041",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://portal.pucminas.br/biblioteca/index_padrao.php",
+              "Title": "Biblioteca PUC Minas"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2042",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2042",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "https://www.pucminas.br/sala-imprensa/informativos/Paginas/puc-informa.aspx",
+              "Title": "PUC Informa"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2043",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2043",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://www.cfbio.gov.br/area-de-atuacao",
+              "Title": "Conselho Federal de Biologia"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2044",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2044",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://www.crbio04.gov.br",
+              "Title": "Conselho Regional de Biologia 4\u00aa Regi\u00e3o"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2045",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2045",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://www.capes.gov.br",
+              "Title": "CAPES"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2046",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2046",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://www-periodicos-capes-gov-br.ez93.periodicos.capes.gov.br/index.php?option=com_phome",
+              "Title": "Portal de Peri\u00f3dicos CAPES"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2047",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2047",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://cnpq.br",
+              "Title": "CNPq"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2048",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2048",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://www.fapemig.br",
+              "Title": "Fapemig"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2049",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2049",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "http://www.scielo.org/php/index.php",
+              "Title": "Scielo"
+            }, {
+              "CustomProperties": {
+                "results": [{
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "NodeType",
+                  "Value": "AuthoredLinkPlain",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Description",
+                  "Value": "",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Target",
+                  "Value": "_blank",
+                  "ValueType": "Edm.String"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "Audience",
+                  "Value": null,
+                  "ValueType": "Null"
+                }, {
+                  "__metadata": {
+                    "type": "SP.KeyValue"
+                  },
+                  "Key": "QuickId",
+                  "Value": "1ae6c082-a43a-4f18-aae1-6ebf9ce21965,2050",
+                  "ValueType": "Edm.String"
+                }]
+              },
+              "FriendlyUrlSegment": "",
+              "IsHidden": false,
+              "Key": "/cienciasbiologicas?SPNavigationNodeId=2050",
+              "Nodes": {
+                "__metadata": {
+                  "type": "Collection(SP.MenuNode)"
+                },
+                "results": []
+              },
+              "NodeType": 0,
+              "SimpleUrl": "https://scholar.google.com.br",
+              "Title": "Google Acad\u00eamico"
+            }]
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas",
+          "Title": "Links"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "1518fb65-4ad8-4d54-b917-5d4b85532370,2017",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/O-CURSO.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/o-curso.aspx",
+          "Title": "O Curso"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "90eab5ea-db82-43d3-b941-78dc26ff30eb,2018",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/MATRIZ-CURRICULAR.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/matriz-curricular.aspx",
+          "Title": "Matriz Curricular"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "d7053080-fd0e-4718-b269-57aa80fdc47e,2019",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/O-BACHARELADO.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/o-bacharelado.aspx",
+          "Title": "O Bacharelado"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "7c53ccdb-1699-4f24-9a7b-3c3bf4b90f86,2020",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/A-LICENCIATURA.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/A-Licenciatura.aspx",
+          "Title": "A Licenciatura"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "4eceae7f-4806-4684-b12c-71d4888ac96b,2021",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/INFRAESTRUTURA.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/Infraestrutura.aspx",
+          "Title": "Infraestrutura"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "68ebefab-40ed-46fa-96e4-bca26ecdc8c1,2022",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/PLANO-DE-DESENVOLVIMENTO-INSTITUCIONAL-(PDI)-2012-2016.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/Plano-de-Desenvolvimento-Institucional-(PDI)-2012-2016.aspx",
+          "Title": "Plano de Desenvolvimento Institucional (PDI): 2012-2016"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "77d00098-11eb-40cf-a743-d62a7b1897bc,2023",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/ATIVIDADES-COMPLEMENTARES-DE-GRADUACAO-(ACGS).ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/Atividades-Complementares-de-Graduacao-(ACGs).aspx",
+          "Title": "Atividades Complementares de Gradua\u00e7\u00e3o (ACGs)"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "56736eba-dc90-431f-b98b-f7695f08c7bb,2024",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/PROGRAMA-DE-ESTAGIOS-NAO-OBRIGATORIOS.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/Programa-de-Estagios-Nao-Obrigatorios.aspx",
+          "Title": "Programa de Est\u00e1gios N\u00e3o-Obrigat\u00f3rios"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "33bc376b-a405-4f48-81e9-409658149735,2025",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/DIRETORIO-ACADEMICO.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/Diretorio-Academico.aspx",
+          "Title": "Diret\u00f3rio Acad\u00eamico (D.A.)"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "9aeafb6e-614d-494c-a376-4346aff8128c,2026",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/SISTEMICA.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/sistemica.aspx",
+          "Title": "SIST\u00caMICA \u2013 Empresa J\u00fanior dos Cursos de Ci\u00eancias Biol\u00f3gicas e de Geografia"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "93717353-f34b-4f15-baf0-448199122e17,2027",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/PROGRAMA-SEMEANDO.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/programa-semeando.aspx",
+          "Title": "Programa SEMEANDO \u2013 Horta Universit\u00e1ria, Estufa/Sementeira e Composteira"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "f2aac972-84cb-4b1e-a289-14f639e83059,2028",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/MATA-DA-PUC-MINAS-E-LAGOA.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/Mata-da-PUC-Minas-e-Lagoa.aspx",
+          "Title": "Mata da PUC Minas e Lagoa"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "180eeddc-5abb-4f33-a1cb-c741994aca73,2029",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/MUSEU-DE-CIENCIAS-NATURAIS-PUC-MINAS.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/Museu-de-Ciencias-Naturais-PUC-Minas.aspx",
+          "Title": "Museu de Ci\u00eancias Naturais PUC Minas"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "8fc1a485-5577-4036-9ddf-8e37e00cb7c5,2030",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": true,
+          "Key": "/CIENCIASBIOLOGICAS/PAGINAS/PROGRAMA-DE-MONITORIAS.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/Paginas/Programa-de-Monitorias.aspx",
+          "Title": "Programa de Monitorias"
+        }]
+      },
+      "SimpleUrl": "/cienciasbiologicas/Paginas/default.aspx",
+      "SPSitePrefix": "/",
+      "SPWebPrefix": "/cienciasbiologicas",
+      "StartingNodeKey": "1002",
+      "StartingNodeTitle": "Ci\u00eancias Biologicas",
+      "Version": "2017-11-22T14:08:10.9098391Z"
+    }
+  }
+}

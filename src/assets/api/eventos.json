@@ -1,0 +1,242 @@
+{
+  "d": {
+    "results": [{
+      "__metadata": {
+        "id": "Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)",
+        "etag": "\"7\"",
+        "type": "SP.Data.EventosListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(3)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 3,
+      "ContentTypeId": "0x01008FECD297B88DCD4D85330B7F0E849DE3",
+      "Title": "Eventos de Extens\u00e3o",
+      "link": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "Eventos de Extens\u00e3o",
+        "Url": "https://www.pucminas.br/"
+      },
+      "DataPublicacao": "2018-06-07T03:00:00Z",
+      "DataExpiracao": "2019-06-08T03:00:00Z",
+      "AbrirNovaPagina": "N\u00e3o",
+      "ID": 3,
+      "Modified": "2018-06-07T13:48:42Z",
+      "Created": "2017-08-22T19:00:43Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "56f0fa38-cd7e-4971-81ec-f78d4e811816"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)",
+        "etag": "\"9\"",
+        "type": "SP.Data.EventosListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(2)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 2,
+      "ContentTypeId": "0x01008FECD297B88DCD4D85330B7F0E849DE3",
+      "Title": "Simp\u00f3sio de Zoologia (4 edi\u00e7\u00f5es)",
+      "link": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "Simp\u00f3sio",
+        "Url": "https://www.pucminas.br/"
+      },
+      "DataPublicacao": "2018-06-07T03:00:00Z",
+      "DataExpiracao": "2019-06-07T03:00:00Z",
+      "AbrirNovaPagina": "N\u00e3o",
+      "ID": 2,
+      "Modified": "2018-06-07T13:48:37Z",
+      "Created": "2017-08-22T18:59:04Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "fdc5800d-107f-4b06-82eb-38e452604a5d"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)",
+        "etag": "\"10\"",
+        "type": "SP.Data.EventosListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'208f6b5c-c705-4e9a-8b2f-aaff44b437f0')/Items(1)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 1,
+      "ContentTypeId": "0x01008FECD297B88DCD4D85330B7F0E849DE3",
+      "Title": "Jornada de Biologia",
+      "link": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "Jornada de Biologia",
+        "Url": "https://jornadadebiologia.wixsite.com/pucminas/programacao"
+      },
+      "DataPublicacao": "2018-06-07T03:00:00Z",
+      "DataExpiracao": "2019-02-21T03:00:00Z",
+      "AbrirNovaPagina": "Sim",
+      "ID": 1,
+      "Modified": "2018-06-07T13:48:28Z",
+      "Created": "2017-08-22T18:57:34Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "94125f85-f649-48e7-b9e1-4f6ea060c58d"
+    }]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "d": {
+    "MenuState": {
+      "__metadata": {
+        "type": "SP.MenuState"
+      },
+      "FriendlyUrlPrefix": "",
+      "Nodes": {
+        "__metadata": {
+          "type": "Collection(SP.MenuNode)"
+        },
+        "results": [{
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "9031ec97-fc3f-4300-8709-047322995384,2002",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/CIENCIASBIOLOGICAS/OPORTUNIDADES/PAGINAS/PROGRAMADEESTAGIOSNAOOBRIGATORIOS.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/oportunidades/Paginas/programadeestagiosnaoobrigatorios.aspx",
+          "Title": "Programa de Est\u00e1gio N\u00e3o-Obrigat\u00f3rios"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "Page",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "8cd1e0b7-4596-4450-97c3-a2a305e93dc1,2003",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/CIENCIASBIOLOGICAS/OPORTUNIDADES/PAGINAS/PROGRAMADEMONITORIAS.ASPX",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "/cienciasbiologicas/oportunidades/Paginas/programademonitorias.aspx",
+          "Title": "Programa de Monitorias"
+        }, {
+          "CustomProperties": {
+            "results": [{
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "NodeType",
+              "Value": "AuthoredLinkPlain",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Description",
+              "Value": "",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Target",
+              "Value": "_blank",
+              "ValueType": "Edm.String"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "Audience",
+              "Value": null,
+              "ValueType": "Null"
+            }, {
+              "__metadata": {
+                "type": "SP.KeyValue"
+              },
+              "Key": "QuickId",
+              "Value": "af2f6213-95b8-4784-9ec5-2c6cde4053f4,2004",
+              "ValueType": "Edm.String"
+            }]
+          },
+          "FriendlyUrlSegment": "",
+          "IsHidden": false,
+          "Key": "/cienciasbiologicas/oportunidades?SPNavigationNodeId=2004",
+          "Nodes": {
+            "__metadata": {
+              "type": "Collection(SP.MenuNode)"
+            },
+            "results": []
+          },
+          "NodeType": 0,
+          "SimpleUrl": "http://portal.pucminas.br/ari/index_link.php?&pagina=1325",
+          "Title": "Interc\u00e2mbios"
+        }]
+      },
+      "SimpleUrl": "/cienciasbiologicas/oportunidades/Paginas/default.aspx",
+      "SPSitePrefix": "/",
+      "SPWebPrefix": "/cienciasbiologicas/oportunidades",
+      "StartingNodeKey": "/CIENCIASBIOLOGICAS/OPORTUNIDADES",
+      "StartingNodeTitle": "Oportunidades",
+      "Version": "2018-02-05T12:49:18.6919681Z"
+    }
+  }
+}

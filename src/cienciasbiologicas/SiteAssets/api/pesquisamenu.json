@@ -1,0 +1,371 @@
+{
+    "d": {
+        "MenuState": {
+            "__metadata": {
+                "type": "SP.MenuState"
+            },
+            "FriendlyUrlPrefix": "",
+            "Nodes": {
+                "__metadata": {
+                    "type": "Collection(SP.MenuNode)"
+                },
+                "results": [
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "b2949777-7ba9-4f73-b729-08185f8cc5af,2002",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/PROJETOS/PAGINAS/PROJETOSDEPESQUISAEINICIACAOCIENTIFICA.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/projetos/Paginas/projetosdepesquisaeiniciacaocientifica.aspx",
+                        "Title": "Projetos de Pesquisa e Iniciação Científica"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "8e1ad6b2-d642-4a7b-b50f-35d194c5fab3,2003",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/PROJETOS/PAGINAS/BIOS.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/projetos/Paginas/bios.aspx",
+                        "Title": "Revista BIOS - Histórico"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "AuthoredLinkPlain",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": "_blank",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "f58e8b5b-1a57-4092-bf8d-5a36d3bac6f5,2004",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/cienciasbiologicas/projetos?SPNavigationNodeId=2004",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "http://periodicos.pucminas.br/index.php/sinapsemultipla",
+                        "Title": "Sinapse Múltipla"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "AuthoredLinkPlain",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "f58e8b5b-1a57-4092-bf8d-5a36d3bac6f5,2005",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/cienciasbiologicas/projetos?SPNavigationNodeId=2005",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/projetos",
+                        "Title": "Anais Jornada de Biologia (em andamento)"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "AuthoredLinkPlain",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "f58e8b5b-1a57-4092-bf8d-5a36d3bac6f5,2006",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/cienciasbiologicas/projetos?SPNavigationNodeId=2006",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/projetos",
+                        "Title": "Banco de monografias (em andamento)"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "AuthoredLinkPlain",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": "_blank",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "f58e8b5b-1a57-4092-bf8d-5a36d3bac6f5,2007",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/cienciasbiologicas/projetos?SPNavigationNodeId=2007",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "http://portal.pucminas.br/pos/biologia/index-padrao.php?pagina=5525",
+                        "Title": "Dissertações"
+                    }
+                ]
+            },
+            "SimpleUrl": "/cienciasbiologicas/projetos/Paginas/default.aspx",
+            "SPSitePrefix": "/",
+            "SPWebPrefix": "/cienciasbiologicas/projetos",
+            "StartingNodeKey": "1002",
+            "StartingNodeTitle": "Pesquisa e Publicações",
+            "Version": "2017-11-10T19:12:59.3768735Z"
+        }
+    }
+}

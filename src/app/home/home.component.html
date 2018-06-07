@@ -1,0 +1,68 @@
+<div class="container">
+  <div class="row">
+    <div class="home">
+      <div class="home__onca"></div>
+      <figure class="home__title">
+        <svg class="home__title-brasao">
+          <use attr.xlink:href="{{brasaoBranco}}"></use>
+        </svg>
+        <div class="home__title-text">
+          <a href="#" class="home__title-text--link">
+            <span>
+              Curso de
+              <br>
+            </span>
+            <span>Ciências Biológicas</span>
+          </a>
+        </div>
+      </figure>
+    </div>
+  </div>
+</div>
+
+<!-- Main Content -->
+<div class="white home__bg">
+  <div class="container content__wrap">
+    <div class="row" *ngIf="!abreNoticia">
+      <div class="home__content">
+        <div class="home__content-noticias">
+          <cb-noticias (noticiaClicada)="abrirNoticia($event)"></cb-noticias>
+        </div>
+        <div class="home__content-destaques">
+          <cb-destaques></cb-destaques>
+        </div>
+        <div class="home__content-eventos">
+          <cb-eventos></cb-eventos>
+        </div>
+      </div>
+    </div>
+    <div class="row" *ngIf="abreNoticia">
+      <div class="home__content home__content--dupla">
+        <div class="home__content-noticias--aberta--menu">
+          <cb-noticias (noticiaClicada)="abrirNoticia($event)"></cb-noticias>
+        </div>
+        <div class="home__content-noticias--aberta full-height">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12">
+                <h3 class="home__content-heading">
+                  {{noticiaContent?.Title}}
+                </h3>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="home__content-noticias--aberta-texto" [innerHtml]="noticiaContent?.Conteudo2"></div>
+              </div>
+            </div>
+          </div>
+          <div class="home__content-noticias-leia-mais bottom">
+            <a (click)="abreNoticia = false">
+              <em>&larr; Voltar</em>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,49 @@
+@import '../../styles'
+
+#footer
+  background: $teal
+  z-index: 2
+  margin-top: 1rem
+
+  & .box
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+  & h3
+    font-family: rotisSans
+    color: $white
+    font-size: 2rem
+    +mobile
+      margin: 10vh auto
+
+  & .container
+    background: $teal
+    color: $white
+
+  & a
+    color: $teal
+
+  & p
+    color: $gray-600
+
+  & #white
+    background: $white
+    color: initial
+
+    & span
+      color: $teal
+
+    & .info
+      font-size: .8rem
+      padding: 1.5rem;
+      padding-left: 3rem
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      & p
+        text-align: left;
+        margin: 0
+        padding: .5rem 0

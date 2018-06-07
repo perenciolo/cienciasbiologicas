@@ -1,0 +1,192 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)",
+                    "etag": "\"4\"",
+                    "type": "SP.Data.PaginasItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(1)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 1,
+                "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4007D1ECA819FE1B142A8E1624CB4AC7D70",
+                "Title": "Início",
+                "Comments": null,
+                "PublishingContactId": null,
+                "PublishingContactEmail": null,
+                "PublishingContactName": null,
+                "PublishingContactPicture": null,
+                "PublishingPageLayout": {
+                    "__metadata": {
+                        "type": "SP.FieldUrlValue"
+                    },
+                    "Description": "Links de resumo",
+                    "Url": "http://www.pucminas.br/_catalogs/masterpage/WelcomeLinks.aspx"
+                },
+                "PublishingIsFurlPage": null,
+                "SeoBrowserTitle": null,
+                "SeoMetaDescription": null,
+                "SeoKeywords": null,
+                "RobotsNoIndex": null,
+                "ArticleByLine": null,
+                "ArticleStartDate": null,
+                "PublishingImageCaption": null,
+                "Conteudo2": null,
+                "Conteudo3": null,
+                "ID": 1,
+                "Created": "2017-11-10T19:21:11Z",
+                "AuthorId": 111,
+                "Modified": "2017-11-10T19:35:25Z",
+                "EditorId": 111,
+                "OData__CopySource": null,
+                "CheckoutUserId": null,
+                "OData__UIVersionString": "1.0",
+                "GUID": "255d10e9-e936-4d34-8e0d-dc31ea3c5d40"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)",
+                    "etag": "\"13\"",
+                    "type": "SP.Data.PaginasItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/extensao/_api/Web/Lists(guid'47c1789a-b419-4dee-9130-6f1aec51123f')/Items(2)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 2,
+                "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00EB615A936D844844B8E098592E2F4465",
+                "Title": "Extensão",
+                "Comments": null,
+                "PublishingContactId": 111,
+                "PublishingContactEmail": null,
+                "PublishingContactName": null,
+                "PublishingContactPicture": null,
+                "PublishingPageLayout": {
+                    "__metadata": {
+                        "type": "SP.FieldUrlValue"
+                    },
+                    "Description": "PUC - PageLayout - Ciências Biológicas - Internas",
+                    "Url": "http://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+                },
+                "PublishingIsFurlPage": false,
+                "SeoBrowserTitle": null,
+                "SeoMetaDescription": null,
+                "SeoKeywords": null,
+                "RobotsNoIndex": false,
+                "ArticleByLine": null,
+                "ArticleStartDate": null,
+                "PublishingImageCaption": null,
+                "Conteudo2": "<div class='container'><div class='row'><div class='col'><h4>Extensão</h4></div></div><div class='row'><div class='col'><p> A prática extensionista objetiva levar à sociedade os conhecimentos científicos e tecnológicos produzidos na academia, o que demanda um duplo esforço&#58; de um lado, as IES devem promover o reconhecimento e a valorização mais equitativa das práticas de ensino, pesquisa e extensão; de outro, as práticas extensionistas devem eleger a difusão do conhecimento científico e tecnológico como atividade prioritária. </p><p> A extensão universitária constitui-se em lócus privilegiado de formação. Pela via do diálogo aberto com a sociedade, é possível concretizar a formação integral desejada&#58; Conhecer e vivenciar a complexidade da realidade na qual se dará a atuação, aproveitando e vislumbrando oportunidades; sensibilizar-se em relação as agendas sociais e ambientais e as possibilidades de contribuição efetiva, como cidadãos e futuros profissionais; perceber as ações de responsabilidade social como dever ético e como campo de atuação profissional; aprender fazendo, aplicando a teoria e refletindo sobre a prática. </p></div></div></div>",
+                "Conteudo3": null,
+                "ID": 2,
+                "Created": "2017-11-10T19:23:55Z",
+                "AuthorId": 111,
+                "Modified": "2017-11-10T19:25:44Z",
+                "EditorId": 111,
+                "OData__CopySource": null,
+                "CheckoutUserId": null,
+                "OData__UIVersionString": "2.0",
+                "GUID": "bdc16bed-ac3a-4328-9cc0-0ae71b832388"
+            }
+        ]
+    }
+}

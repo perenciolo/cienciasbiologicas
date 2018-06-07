@@ -1,0 +1,43 @@
+<cb-header-internas></cb-header-internas>
+<div class="internas white">
+  <div class="container">
+    <div class="row internas__content">
+      <div class="col-xs-12 col-md-3">
+        <h3 class="internas__sidebar-heading">{{headLine?.StartingNodeTitle}}</h3>
+        <ul class="internas__sidebar-list">
+          <li class="internas__sidebar-item" *ngFor="let d of data">
+            <a *ngIf="d.CustomProperties.results[2].Value !== null" target="_blank" [href]="d.SimpleUrl" class="internas__sidebar-link">{{d.Title}}</a>
+            <a *ngIf="d.CustomProperties.results[2].Value == null" (click)="getPageByName(d.Title)" class="internas__sidebar-link">{{d.Title}}</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-xs-12 col-md-9">
+        <div #dataContainer class="internas__main">
+        </div>
+        <div *ngIf="gallerySet.length" class="internas__main">
+          <div class="row">
+            <div class="col-xs-12">
+              <h5 class="internas__galeria-heading">
+                Galeria:
+              </h5>
+            </div>
+          </div>
+          <div class="internas__galeria-container row">
+            <div class="col-xs-12 col-sm-6">
+              <div class="row">
+                <div *ngFor="let photo of gallerySet" class="internas__galeria-img col-xs-12 col-sm-4">
+                  <img class="img-fluid internas__galeria-img-item" (click)="changeIMG($event)" (mouseenter)="changeIMG($event)" [src]="photo.Imagem.Url"
+                    [alt]="photo.Imagem.Description">
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <img class="img-fluid" [src]="galleryHero" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /.container -->
+</div>

@@ -1,0 +1,603 @@
+{
+    "d": {
+        "MenuState": {
+            "__metadata": {
+                "type": "SP.MenuState"
+            },
+            "FriendlyUrlPrefix": "",
+            "Nodes": {
+                "__metadata": {
+                    "type": "Collection(SP.MenuNode)"
+                },
+                "results": [
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "091a3523-e174-42f8-b738-56dd7560c996,2002",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/INFRAESTRUTURA.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/infraestrutura.aspx",
+                        "Title": "Infraestrutura"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "eb3d22f6-0288-473a-9274-7eb9025423dc,2003",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/SALASDEAULA.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/salasdeaula.aspx",
+                        "Title": "Salas de Aula"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "868e5f0c-0ac3-4c00-80d5-a5b9e95cb122,2004",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/LABORATORIOS.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/laboratorios.aspx",
+                        "Title": "Laboratórios"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "e4a09ac7-2ee8-434c-b98b-92a750e93bd0,2005",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/ESPACOSDIFERENCIADOS.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/espacosdiferenciados.aspx",
+                        "Title": "Espaços diferenciados"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "91d51380-3973-4c8c-918b-102c9b58b75e,2006",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/DA.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/da.aspx",
+                        "Title": "Diretório Acadêmico (D.A.)"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "cc169f73-a951-4c86-b139-f7519a1f1a78,2007",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/SISTEMICA.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/sistemica.aspx",
+                        "Title": "SISTÊMICA – Empresa Júnior dos Cursos de Ciências Biológicas e de Geografia"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "75099d2f-c0bc-4371-af84-9b08634cbea1,2008",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/SEMEANDO.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/semeando.aspx",
+                        "Title": "Programa SEMEANDO – Horta Universitária, Estufa/Sementeira e Composteira"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "7ef3c472-1db5-4793-8090-062d3e7d4512,2009",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/MATA.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/mata.aspx",
+                        "Title": "Mata da PUC Minas e Lagoa"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "b1aeb1ff-ac87-4a89-8238-c6dc4bad5951,2010",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/INFRAESTRUTURA/PAGINAS/MUSEU.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/museu.aspx",
+                        "Title": "Museu de Ciências Naturais PUC Minas"
+                    },
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "AuthoredLinkPlain",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": "_blank",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "bad37bfb-6acd-41b1-b08d-6deccb34421c,2011",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/cienciasbiologicas/infraestrutura?SPNavigationNodeId=2011",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "http://icbs.pucminas.br/petbiologia/",
+                        "Title": "Programa de Educação Tutorial – PET/BIOLOGIA-MEC/SESu"
+                    }
+                ]
+            },
+            "SimpleUrl": "/cienciasbiologicas/infraestrutura/Paginas/default.aspx",
+            "SPSitePrefix": "/",
+            "SPWebPrefix": "/cienciasbiologicas/infraestrutura",
+            "StartingNodeKey": "1002",
+            "StartingNodeTitle": "Infraestrutura",
+            "Version": "2017-11-10T15:21:01.1684923Z"
+        }
+    }
+}

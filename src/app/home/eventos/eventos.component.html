@@ -1,0 +1,19 @@
+<h3 class="home__content-heading">
+  Eventos
+</h3>
+<ul v-if="eventos" class="home__content-eventos-list">
+  <li *ngFor="let evento of eventos" class="home__content-eventos-item">
+    <a *ngIf="evento.link" target="" [target]="(evento?.AbrirNovaPagina === 'Sim'? '_blank':  '_self')" [href]="evento?.link.Url"
+      class="home__content-eventos-link">
+      {{evento?.Title}}
+    </a>
+    <a *ngIf="!evento.link" class="home__content-eventos-link">
+      {{evento?.Title}}
+    </a>
+  </li>
+</ul>
+<div *ngIf="!eventos">
+  <div class="alert alert-danger" role="alert">
+    Desculpe. Nenhum evento publicado.
+  </div>
+</div>

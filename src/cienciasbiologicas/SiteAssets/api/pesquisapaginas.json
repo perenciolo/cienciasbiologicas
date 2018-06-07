@@ -1,0 +1,285 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)",
+                    "etag": "\"4\"",
+                    "type": "SP.Data.PaginasItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(1)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 1,
+                "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4005186C2573365354BB5702E831EC771BF",
+                "Title": "Início",
+                "Comments": null,
+                "PublishingContactId": null,
+                "PublishingContactEmail": null,
+                "PublishingContactName": null,
+                "PublishingContactPicture": null,
+                "PublishingPageLayout": {
+                    "__metadata": {
+                        "type": "SP.FieldUrlValue"
+                    },
+                    "Description": "Links de resumo",
+                    "Url": "http://www.pucminas.br/_catalogs/masterpage/WelcomeLinks.aspx"
+                },
+                "PublishingIsFurlPage": null,
+                "SeoBrowserTitle": null,
+                "SeoMetaDescription": null,
+                "SeoKeywords": null,
+                "RobotsNoIndex": null,
+                "ArticleByLine": null,
+                "ArticleStartDate": null,
+                "PublishingImageCaption": null,
+                "Conteudo2": null,
+                "Conteudo3": null,
+                "ID": 1,
+                "Created": "2017-11-10T18:52:51Z",
+                "AuthorId": 111,
+                "Modified": "2017-11-10T18:53:23Z",
+                "EditorId": 111,
+                "OData__CopySource": null,
+                "CheckoutUserId": null,
+                "OData__UIVersionString": "1.0",
+                "GUID": "a7aa15ef-abb5-4fc3-a5ee-384cde6defb2"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)",
+                    "etag": "\"7\"",
+                    "type": "SP.Data.PaginasItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(2)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 2,
+                "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C002C8F65F0B4F66D47AC7E5BB151D3BE56",
+                "Title": "Projetos de Pesquisa e Iniciação Científica",
+                "Comments": null,
+                "PublishingContactId": 111,
+                "PublishingContactEmail": null,
+                "PublishingContactName": null,
+                "PublishingContactPicture": null,
+                "PublishingPageLayout": {
+                    "__metadata": {
+                        "type": "SP.FieldUrlValue"
+                    },
+                    "Description": "PUC - PageLayout - Ciências Biológicas - Internas",
+                    "Url": "http://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+                },
+                "PublishingIsFurlPage": false,
+                "SeoBrowserTitle": null,
+                "SeoMetaDescription": null,
+                "SeoKeywords": null,
+                "RobotsNoIndex": false,
+                "ArticleByLine": null,
+                "ArticleStartDate": null,
+                "PublishingImageCaption": null,
+                "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col\"><h4>Projetos de Pesquisa e Iniciação Científica</h4></div></div><div class=\"row\"><div class=\"col\"><p> A iniciação científica é um instrumento que fornece oportunidade aos estudantes de graduação vivenciar o ambiente de pesquisa e de produção científica, despertando a curiosidade e vocações. Incentiva aqueles que se destacam em seu desempenho acadêmico. O discente tem desde o início do curso um contato direto com a atividade científica e a pesquisa. Nesta perspectiva, a iniciação científica caracteriza-se como instrumento de apoio teórico e metodológico à elaboração e ao desenvolvimento de um projeto de pesquisa e constitui um instrumento que complementa a formação de recursos humanos qualificados. Um projeto de iniciação científica também pode evoluir para um projeto mais elaborado de Pós-Graduação. </p></div></div></div>",
+                "Conteudo3": null,
+                "ID": 2,
+                "Created": "2017-11-10T18:56:47Z",
+                "AuthorId": 111,
+                "Modified": "2017-11-10T18:59:37Z",
+                "EditorId": 111,
+                "OData__CopySource": null,
+                "CheckoutUserId": null,
+                "OData__UIVersionString": "1.0",
+                "GUID": "17bacc62-8308-490c-9ff9-d4545e8f04b9"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)",
+                    "etag": "\"7\"",
+                    "type": "SP.Data.PaginasItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/projetos/_api/Web/Lists(guid'284799ec-d7ab-4559-8854-c1155145ef5c')/Items(3)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 3,
+                "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C002C8F65F0B4F66D47AC7E5BB151D3BE56",
+                "Title": "Revista BIOS - Histórico",
+                "Comments": null,
+                "PublishingContactId": 111,
+                "PublishingContactEmail": null,
+                "PublishingContactName": null,
+                "PublishingContactPicture": null,
+                "PublishingPageLayout": {
+                    "__metadata": {
+                        "type": "SP.FieldUrlValue"
+                    },
+                    "Description": "PUC - PageLayout - Ciências Biológicas - Internas",
+                    "Url": "http://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+                },
+                "PublishingIsFurlPage": false,
+                "SeoBrowserTitle": null,
+                "SeoMetaDescription": null,
+                "SeoKeywords": null,
+                "RobotsNoIndex": false,
+                "ArticleByLine": null,
+                "ArticleStartDate": null,
+                "PublishingImageCaption": null,
+                "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col\"><h4>Revista BIOS - Histórico</h4></div></div><div class=\"row\"><div class=\"col\"><p> O primeiro número, experimental, da Revista BIOS foi lançado em 1983 como Boletim do Museu de Ciências Naturais da PUC MINAS, vinculado ao Departamento de Ciências Biológicas. Esta edição visava o lançamento do Museu e nele são publicados alguns artigos que divulgavam as coleções científicas. </p><p> Em 1993, a Revista foi reestruturada através de uma comissão editorial. Esta comissão decidiu pelo recomeço da numeração e assim, naquele ano, foi publicado o número 1 do primeiro volume. A Revista BIOS passou a ser então uma publicação vinculada ao Departamento de Ciências Biológicas, com a publicação de artigos nas áreas de Ciências Biológicas. </p><p> A partir de 1999, no volume 7, a Revista BIOS sofreu modificações no conteúdo e no layout. Assumiu, nesta oportunidade, novo editor e nova comissão editorial. Foi criado um corpo de consultores ad hoc, de pelo menos 10 instituições nacionais de ensino e pesquisa. A editoração e revisão também sofreram modificações, tendo sido designado profissional da área para esta atividade. Outro fato relevante na história da Revista Bios foi a sua indexação pela Aquatic Sciences &amp; Fisheries Abstracts (ASFA), a partir do volume 7. Este fato representou a inclusão dos artigos da revista em um dos um dos mais importantes índices bibliográficos científicos existentes. Assim, sua divulgação internacional ficou grandemente facilitada. </p><p> Atualmente, a Revista BIOS se encontra no volume 13, número 13, tendo caráter de Cadernos do Departamento de Ciências Biológicas e do Programa de Pós-graduação em Zoologia de Vertebrados, da PUC Minas. Desta forma, vem se tornando um importante instrumento de integração entre estas duas instâncias, tendo em sua comissão editorial professores de ambas. </p><p> A revista BIOS é uma publicação para divulgação de relatos de pesquisa, artigos de revisão, notícias, comentários, comunicações, ensaios, editoriais e cartas para a Comissão Editorial nas diversas áreas das Ciências Biológicas. Estão incluídas publicações de pesquisadores de diversas instituições de pesquisa do país e internacionais. Seus consultores científicos são pesquisadores em evidência em suas áreas de atuação e pertencentes a diversas instituições de todo país. Este número se torna também um marco, pois a Revista BIOS passou a ser indexada pelo Zoological Record, o maior índice bibliográfico na área de zoologia. Além disto, este número contou com a publicação dos resumos de trabalhos publicados no XIV Encontro da Associação Mineira de Aqüicultura, realizado de 12 a 13 de setembro de 2002, na PUC Minas. </p><p> <strong> LINKS DAS PUBLICAÇÕES </strong> </p><p> <a class=\"btn btn-primary text-white\" href=\"http&#58;//portal.pucminas.br/graduacao/cursos/arquivos/ARE_ARQ_REVIS_ELETR20090820164810.pdf\">2005</a> </p><p> <a class=\"btn btn-primary text-white\" href=\"http&#58;//portal.pucminas.br/graduacao/cursos/arquivos/ARE_ARQ_REVIS_ELETR20090820160045.pdf\">2004</a> </p></div></div></div>",
+                "Conteudo3": null,
+                "ID": 3,
+                "Created": "2017-11-10T19:00:15Z",
+                "AuthorId": 111,
+                "Modified": "2017-11-10T19:07:01Z",
+                "EditorId": 111,
+                "OData__CopySource": null,
+                "CheckoutUserId": null,
+                "OData__UIVersionString": "1.0",
+                "GUID": "aeb79d98-f22d-4f43-958f-52d1218c7911"
+            }
+        ]
+    }
+}

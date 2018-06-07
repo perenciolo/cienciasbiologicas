@@ -1,0 +1,58 @@
+// CSS DEFAULT
+#html
+  font-size: 16px
+  padding: 0
+  margin: 0
+  max-width: 100%
+  +mobile
+    font-size: 15px
+
+#s4-bodyContainer
+    padding-bottom: 0 !important
+
+.white
+  background: $white
+
+#corpo
+  & *
+    box-sizing: inherit
+
+  font-family: 'Open Sans', sans-serif
+  color: $gray-600
+  width: 100vw
+  min-width: 300px
+  overflow-x: hidden
+  box-sizing: border-box
+  background-color: $black
+
+  .corpo
+    // height: 100vh
+    display: flex
+    flex-direction: column
+    align-items: stretch
+    justify-content: space-between
+    align-content: space-between
+    align-self: center
+
+.bg-primary
+  background: $teal !important
+
+.visible-desktop
+  display: none
+
+.hidden-desktop
+  display: none
+
++desktop
+  .visible-xs
+    display: none
+  .visible-desktop
+    display: flex
+
++mobile
+  .hidden-desktop
+    display: block
+
++tablet-only
+  .hidden-desktop
+    display: block

@@ -1,0 +1,47 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <span class="d-block d-lg-none">Ciências Biológicas</span>
+  </a>
+  <button class="navbar-toggler" (click)="dropar()" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="container navcontainer">
+    <div class="row">
+      <div class="collapse navbar-collapse" [ngClass]="{'show': open}" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <div class="navbar__wrapper" *ngFor="let item of data">
+            <li *ngIf="item.Nodes.results.length === 0" class="nav-item" routerLinkActive="active">
+              <a *ngIf="item.CustomProperties.results[2].Value == null" class="nav-link" [routerLink]="item.SimpleUrl">
+                {{item.Title}}
+                <span class="sr-only">(current)</span>
+              </a>
+              <a *ngIf="item.CustomProperties.results[2].Value != null" class="nav-link" [href]="item.SimpleUrl" target="_blank">
+                {{item.Title}}
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <div *ngIf="item.Nodes.results.length !== 0">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" (click)="activate(item.Title)" aria-haspopup="true" aria-expanded="false">
+                  {{item.Title}}
+                </a>
+                <div (mouseleave)="isActive = ''" class="dropdown-menu" [ngClass]="{'show' : isActive === item.Title}" aria-labelledby="navbarDropdownMenuLink">
+                  <div *ngFor="let it of item.Nodes.results">
+                    <a *ngIf="it.CustomProperties.results[2].Value == null" class="dropdown-item" [routerLink]="it.SimpleUrl">
+                      {{it.Title}}
+                    </a>
+                    <a *ngIf="it.CustomProperties.results[2].Value != null" class="dropdown-item" target="_blank" [href]="it.SimpleUrl">
+                      {{it.Title}}
+                    </a>
+                  </div>
+                </div>
+              </li>
+            </div>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>

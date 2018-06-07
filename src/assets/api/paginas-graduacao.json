@@ -1,0 +1,663 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(1)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 1,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "O Curso",
+                "AbrirNovaPagina": "Não",
+                "Conteudo2": "<p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">O Curso de Ciências Biológicas da PUC Minas forma bacharéis e licenciados em Biologia desde 1972. O bacharelado do Curso de Ciências Biológicas, no&#160;<em style=\"box-sizing&#58;border-box;\">campus</em>&#160;Coração Eucarístico, destaca-se pelo envolvimento junto às questões biológicas, éticas, da saúde, da biotecnologia e da educação, com notório investimento na formação em meio ambiente e biodiversidade. Já o bacharelado no Curso de Ciências Biológicas de Betim possui linha de formação em Gestão Ambiental.</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">O curso propicia a formação de um profissional capaz de lidar com situações concretas nas mais de 87 áreas de atuação das Ciências Biológicas, conforme estabelecido na Resolução nº 227/2010, de 18 de agosto de 2010, que dispõe sobre a regulamentação das Atividades Profissionais e das&#160;<a target=\"_blank\" href=\"http&#58;//www.cfbio.gov.br/area-de-atuacao\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Áreas de Atuação do Biólogo</a>, em Meio Ambiente e Biodiversidade, Saúde e, Biotecnologia e Produção, além das atividades exercidas no âmbito da licenciatura. No Curso de Ciências Biológicas, o aluno terá ainda oportunidades de promover e participar de eventos científicos e acadêmicos, além da possibilidade de trabalhar com projetos de pesquisa, ensino e extensão.</p>",
+                "UrlAbrirNovaJanela": null,
+                "ID": 1,
+                "Modified": "2017-09-11T18:43:18Z",
+                "Created": "2017-09-11T18:43:18Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "31553c34-6551-4e92-90e2-e0800ac13f69"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(2)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 2,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "Matriz Curricular",
+                "AbrirNovaPagina": "Não",
+                "Conteudo2": "<div class=\"table-responsive\"><table align=\"center\" width=\"100%\" class=\"table\"><thead><tr><th colspan=\"4\" style=\"text-align&#58;left;\">1º período<br><br></th></tr><tr><th width=\"40%\" style=\"text-align&#58;left;\">Disciplinas</th><th width=\"10%\" style=\"text-align&#58;left;\">Carga horária</th><th width=\"10%\">Requisito(s)</th><th width=\"40%\" style=\"text-align&#58;left;\">Corpo docente</th></tr><tr><td align=\"left\"> <a href=\"#box-materia\" name=\"modal\" data-ajax=\"true\">ANATOMIA HUMANA</a></td><td align=\"right\" style=\"text-align&#58;left;\">68</td><td align=\"left\"></td><td align=\"left\"> <strong>PRÁTICA&#58;</strong> <li> <a href=\"#box-professor\" name=\"modal\" data-ajax=\"true\">Raquel Vasconcelos Santos</a></li> <br> <strong>TEÓRICA&#58;</strong> <li> <a href=\"#box-professor\" name=\"modal\" data-ajax=\"true\">Raquel Vasconcelos Santos</a></li></td></tr><tr class=\"cor\"><td align=\"left\"> <a href=\"#box-materia\" name=\"modal\" data-ajax=\"true\">BOTÂNICA E ALGAS A PTERIDÓFITAS</a></td><td align=\"right\" style=\"text-align&#58;left;\">80</td><td align=\"left\"></td><td align=\"left\"> <br> <strong>PRÁTICA&#58;</strong> <li>Professor(es) a definir</li> <br> <strong>TEÓRICA&#58;</strong> <li>Professor(es) a definir</li></td></tr><tr><td align=\"left\"> <a href=\"#box-materia\" name=\"modal\" data-ajax=\"true\">CITOLOGIA E HISTOLOGIA</a></td><td align=\"right\" style=\"text-align&#58;left;\">68</td><td align=\"left\"></td><td align=\"left\"> <br> <strong>PRÁTICA&#58;</strong> <li>Professor(es) a definir</li> <br> <strong>TEÓRICA&#58;</strong> <li>Professor(es) a definir</li></td></tr><tr class=\"cor\"><td align=\"left\"> <a href=\"#box-materia\" name=\"modal\" data-ajax=\"true\">EVOLUÇÃO E BIOGEOGRAFIA</a></td><td align=\"right\" style=\"text-align&#58;left;\">68</td><td align=\"left\"></td><td align=\"left\"> <strong>TEÓRICA&#58;</strong> <li> <a href=\"#box-professor\" name=\"modal\" data-ajax=\"true\">Virginia Simao Abuhid</a></li></td></tr><tr><td align=\"left\"> <a href=\"#box-materia\" name=\"modal\" data-ajax=\"true\">FORMAÇÃO EM CIÊNCIAS BIOLÓGICAS</a></td><td align=\"right\" style=\"text-align&#58;left;\">17</td><td align=\"left\"></td><td align=\"left\"> <br> <strong>TEÓRICA&#58;</strong> <li>Professor(es) a definir</li></td></tr><tr class=\"cor\"><td align=\"left\"> <a href=\"#box-materia\" name=\"modal\" data-ajax=\"true\">INVERTEBRADOS NÃO CELOMADOS</a></td><td align=\"right\" style=\"text-align&#58;left;\">68</td><td align=\"left\"></td><td align=\"left\"> <br> <strong>PRÁTICA&#58;</strong> <li>Professor(es) a definir</li> <br> <strong>TEÓRICA&#58;</strong> <li>Professor(es) a definir</li></td></tr><tr><td align=\"left\"> <a href=\"#box-materia\" name=\"modal\" data-ajax=\"true\">PLANEJAMENTO E GESTÃO AMBIENTAL</a></td><td align=\"right\" style=\"text-align&#58;left;\">34</td><td align=\"left\"></td><td align=\"left\"> <br> <strong>TEÓRICA&#58;</strong> <li>Professor(es) a definir</li></td></tr></thead></table></div><div> <a class=\"btn btn-primary\" href=\"/cienciasbiologicas/Paginas/Forms/EditForm.aspx?file=matriz\">Matriz completa</a></div>",
+                "UrlAbrirNovaJanela": null,
+                "ID": 2,
+                "Modified": "2017-09-11T18:45:48Z",
+                "Created": "2017-09-11T18:45:48Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "bb35a8a6-7cc6-444d-9380-a6abca6569b4"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(3)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 3,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "Grade de horários",
+                "AbrirNovaPagina": "Sim",
+                "Conteudo2": null,
+                "UrlAbrirNovaJanela": "http://www.sistemas.pucminas.br/sga3/SilverStream/Pages/pgSGA_RelGradePorCurso.html?pCursoOferta=22",
+                "ID": 3,
+                "Modified": "2017-09-11T18:46:55Z",
+                "Created": "2017-09-11T18:46:55Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "027dc57b-36f5-46ff-9719-ae9e5d6fa483"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(4)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 4,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "O Bacharelado",
+                "AbrirNovaPagina": "Não",
+                "Conteudo2": "<p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">Para a fundamentação da proposta do Bacharelado em Ciências Biológicas, tomou-se o mercado e a profissão como eixo fundante que justifica a maturação entre o bacharelado com linha de formação em educação ambiental, oferecido no projeto anterior, agora um contexto mais ampliado, com uma abordagem que reflete a formação do profissional biólogo alinhado para as questões do Meio Ambiente e da Biodiversidade.</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">O Bacharelado em Ciências Biológicas deve considerar que a escolha para Linha de Formação em Meio Ambiente e Biodiversidade&#58;</p><ul style=\"box-sizing&#58;border-box;margin-top&#58;0px;margin-bottom&#58;10px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\"><li style=\"box-sizing&#58;border-box;\">Reforça a formação e a prática dialógica com a licenciatura, não “competindo” com ela;</li><li style=\"box-sizing&#58;border-box;\">Viabiliza a realização do estágio, oferecendo possibilidades diversificadas de campos para seu desenvolvimento;</li><li style=\"box-sizing&#58;border-box;\">Ressalta e garante a efetivação dos princípios e diretrizes para a formação proposta&#58; interdisciplinaridade, articulação teoria e prática, indissociabilidade entre ensino, pesquisa e extensão, flexibilidade e formação humanista;</li><li style=\"box-sizing&#58;border-box;\">Promove a extensão no curso através, principalmente de ações de intervenção social e inclusão;</li><li style=\"box-sizing&#58;border-box;\">Reforça e garante o compromisso do Ensino Superior, especialmente das Ciências Biológicas, com um futuro viável a partir dos preceitos da sustentabilidade;</li><li style=\"box-sizing&#58;border-box;\">Ressalta os laços de cooperação e integração entre os cursos da Universidade;</li><li style=\"box-sizing&#58;border-box;\">Propicia uma articulação eficiente com os Programas de Pós-Graduação da PUC Minas, na perspectiva de fomentar a pesquisa e a formação continuada do corpo docente e discente;</li><li style=\"box-sizing&#58;border-box;\">Potencializa ações represadas na área ambiental, fortalecendo espaço de formação de excelência, já existentes&#58; CISAL, CEIVA, Museu de Ciências Naturais da PUC Minas, Mata da PUC Minas, Fazenda da PUC Minas;</li><li style=\"box-sizing&#58;border-box;\">Estimula a contribuição ativa e efetiva junto à sociedade, sejam pela formação de políticas públicas, estudos de referência, representação em conselhos (CODEMAs, COPAM, Unidades de Conservação, Polos de Excelência), articulação com diversos atores.</li></ul>",
+                "UrlAbrirNovaJanela": null,
+                "ID": 4,
+                "Modified": "2017-09-11T18:47:40Z",
+                "Created": "2017-09-11T18:47:40Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "3621a7de-75fa-4ce4-ac04-4cd0d031a30a"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(5)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 5,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "A Licenciatura",
+                "AbrirNovaPagina": "Não",
+                "Conteudo2": "<p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">O curso de licenciatura em Ciências Biológicas oferece e prepara o biólogo e educador para a formação que favoreça uma atuação em espaços diversificados, com uma atitude inclusiva, comprometida com sua responsabilidade social e ambiental. Em síntese, isto equivale a contemplar&#58;</p><ul style=\"box-sizing&#58;border-box;margin-top&#58;0px;margin-bottom&#58;10px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\"><li style=\"box-sizing&#58;border-box;\">A preparação dos discentes para atuar nas Instituições de Educação Básica, em especial Ensino Fundamental e Médio, no Ensino de Jovens e Adultos, nas Escolas técnicas e Escolas Inclusivas;</li><li style=\"box-sizing&#58;border-box;\">A educação para a sustentabilidade em suas múltiplas dimensões (ambiental, cultural, político-cultural, econômica);</li><li style=\"box-sizing&#58;border-box;\">A educação em espaços não-formais&#58; museus, centros de ciências e de educação ambiental, jardins botânicos e zoológicos, centros de pesquisa, organizações governamentais e não governamentais, entre outros;</li><li style=\"box-sizing&#58;border-box;\">A educação para o empreendedorismo;</li><li style=\"box-sizing&#58;border-box;\">A formação para a pesquisa em ensino, educação e em áreas afins;</li><li style=\"box-sizing&#58;border-box;\">A integração com outras instâncias institucionais&#58;&#160;<a target=\"_blank\" href=\"/cultura/index_padrao.php?pagina=3369\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">NAI</a>,&#160;<a target=\"_blank\" href=\"/graduacao/index1.php?tipo_form=info&amp;codigo=8&amp;pag=1415\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Cursos de Graduação em Pedagogia</a>&#160;e outras licenciaturas, Programas de Pós-Graduação&#160;<em style=\"box-sizing&#58;border-box;\">stricto sensu</em>&#160;(Mestrado Profissional em&#160;<a target=\"_blank\" href=\"/pos/ensino/destaques.php\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Ensino de Ciências e Matemática</a>, Mestrado e Doutorado Acadêmicos em&#160;<a target=\"_blank\" href=\"/pos/educacao/destaques.php\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Educação</a>&#160;e Mestrado e Doutorado Acadêmicos em&#160;<a target=\"_blank\" href=\"/pos/letras/destaques.php\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Letras</a>), CEFOR,&#160;<a target=\"_blank\" href=\"/portal/index_padrao.php?pagina=5221\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Museu de Ciências Naturais PUC Minas</a>,&#160;<a target=\"_blank\" href=\"https&#58;//www.facebook.com/sistemicaej\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Sistêmica – Empresa Júnior dos Cursos de Ciências Biológicas e Geografia</a>;</li><li style=\"box-sizing&#58;border-box;\">A articulação e consolidação de parcerias com programas e projetos educacionais com os quais a PUC Minas tem parceria&#58; PIBID, Escola Integrada e Escola da Gente, MAGISTRA – Escola de Formação da SEEMG (“Escola da Escola”);</li><li style=\"box-sizing&#58;border-box;\">A Educação à Distância (EAD) com oferta de disciplinas virtuais (até 20% da carga horária)</li></ul>",
+                "UrlAbrirNovaJanela": null,
+                "ID": 5,
+                "Modified": "2017-09-11T18:48:21Z",
+                "Created": "2017-09-11T18:48:21Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "16356e21-c311-40bd-8de7-6f15a4219de7"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(6)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 6,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "Atividades Complementares de Graduação (ACGs)",
+                "AbrirNovaPagina": "Não",
+                "Conteudo2": "<p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">As Atividades Complementares de Graduação (ACG) estão inseridas como uma das propostas relacionadas à estrutura curricular flexibilizada. Estas atividades surgem como uma estratégia didática, indicadas pelas Diretrizes Curriculares para os cursos de Ciências Biológicas visando garantir a articulação entre a teoria e prática, a indissociabilidade ensino, pesquisa e extensão, e o desenvolvimento de atividades acadêmico-científico e culturais. A flexibilização curricular é caracterizada por ações que possibilitam formação complementar interdisciplinar particular ao aluno, incentivando a interação entre as disciplinas e respeitando a diversidade de formação, interesse e autonomia acadêmica.</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">As ACG constituem em estratégia que viabiliza o desenvolvimento da autonomia do aluno para intervir no processo de formação, ampliando e diversificando suas fontes de saberes. Ao mesmo tempo, torna-se campo de ação para o desenvolvimento da capacidade do aluno de lidar com problemas e buscar soluções.</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\"><a type=\"button\" data-toggle=\"modal\" data-target=\"#modal1\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\"><img src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/acgs.png\" alt=\"\" style=\"box-sizing&#58;border-box;border-width&#58;0px;border-style&#58;initial;vertical-align&#58;middle;margin&#58;5px;\" /></a></p>",
+                "UrlAbrirNovaJanela": null,
+                "ID": 6,
+                "Modified": "2017-09-11T18:49:09Z",
+                "Created": "2017-09-11T18:49:09Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "23f663b7-3383-4ce6-8f19-599335edd056"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(7)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 7,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "Programa de Estágios Não-Obrigatórios",
+                "AbrirNovaPagina": "Não",
+                "Conteudo2": "<p>​<span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;text-align&#58;justify;background-color&#58;#ffffff;\">O estágio não obrigatório é aquele desenvolvido como atividade opcional, acrescida à carga horária regular e obrigatória, por isso, este estágio pode ser aproveitado pelo estudante do curso como Atividade Complementar de Graduação (ACG). Dentro desta perspectiva, o estágio não obrigatório também contará com a supervisão de um professor do corpo docente do curso, para que ele possa efetivamente ser um instrumento vivencial de capacitação profissional e de formação educacional do estudante.</span></p>",
+                "UrlAbrirNovaJanela": null,
+                "ID": 7,
+                "Modified": "2017-09-11T18:49:38Z",
+                "Created": "2017-09-11T18:49:38Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "9452f243-dc98-424f-8a8c-53528553bd80"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)",
+                    "etag": "\"2\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(8)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 8,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "Programa de Educação Tutorial – PET/BIOLOGIA-MEC/SESu",
+                "AbrirNovaPagina": "Sim",
+                "Conteudo2": null,
+                "UrlAbrirNovaJanela": "http://icbs.pucminas.br/petbiologia/",
+                "ID": 8,
+                "Modified": "2017-09-11T18:50:28Z",
+                "Created": "2017-09-11T18:50:18Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "0c241481-a40a-4e05-945d-dfb955687f37"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)",
+                    "etag": "\"1\"",
+                    "type": "SP.Data.PaginasdeGraduacaoListItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'1755cecd-39c2-4246-8930-d36310fb0d46')/Items(10)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 10,
+                "ContentTypeId": "0x0100F1FE695BE66C1B4E807A4869C01B871D",
+                "Title": "Perfil dos Egressos",
+                "AbrirNovaPagina": "Não",
+                "Conteudo2": "<p>​</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">Segundo as Diretrizes Curriculares para os cursos de Ciências Biológicas (CNE/CES 1.301/2001), e perfil almejado para a formação em Ciências Biológicas da PUC Minas, o egresso deste curso deverá&#58;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">a) Ter formação generalista, dotado de um largo espectro de competências genéricas em disciplinas variadas;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">b) Ser sujeito da sua própria aprendizagem, atuando de maneira crítica e criativa;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">c) Ter uma adequada fundamentação teórico-prática que inclua a instrumentação para o ensino e pesquisa, um conhecimento profundo da diversidade biológica quanto à sua organização e funcionamento em diversos níveis, às relações filogenéticas, aos padrões de distribuição e às relações com o ambiente, em uma perspectiva histórica e evolutiva. Esta formação deve ser embasada no entendimento epistemológico para a construção do conhecimento técnico científico e pedagógico;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">d) Ser comprometido com os resultados de sua atuação pautando a sua conduta profissional por critérios humanísticos e de rigor científico, bem como por referenciais éticos e legais;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">e) Ter consciência da realidade em que vai atuar e da necessidade de se tornar agente transformador dessa realidade, compreendendo a sua responsabilidade para com o desenvolvimento sustentável e a qualidade de vida;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">f) Ser consciente de sua responsabilidade como educador nos vários contextos de atuação profissional;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">g) Ser capaz de trabalhar em equipes multidisciplinares, com visão sistêmica;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">h) Ser consciente da necessidade de investir de forma sistemática e autônoma na sua formação continuada;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#ffffff;\">i) Estar preparado para desenvolver ideias inovadoras e ações estratégicas, capazes de ampliar e aperfeiçoar sua área de atuação.</p>",
+                "UrlAbrirNovaJanela": null,
+                "ID": 10,
+                "Modified": "2017-09-11T18:52:44Z",
+                "Created": "2017-09-11T18:52:44Z",
+                "AuthorId": 111,
+                "EditorId": 111,
+                "OData__UIVersionString": "1.0",
+                "Attachments": false,
+                "GUID": "48f852d9-1a37-4ca9-afd1-cbaa916dd409"
+            }
+        ]
+    }
+}

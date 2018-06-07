@@ -1,0 +1,81 @@
+{
+    "d": {
+        "MenuState": {
+            "__metadata": {
+                "type": "SP.MenuState"
+            },
+            "FriendlyUrlPrefix": "",
+            "Nodes": {
+                "__metadata": {
+                    "type": "Collection(SP.MenuNode)"
+                },
+                "results": [
+                    {
+                        "CustomProperties": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "NodeType",
+                                    "Value": "Page",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Description",
+                                    "Value": "",
+                                    "ValueType": "Edm.String"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Target",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "Audience",
+                                    "Value": null,
+                                    "ValueType": "Null"
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.KeyValue"
+                                    },
+                                    "Key": "QuickId",
+                                    "Value": "6b9c1b49-4ca9-475e-a48c-1714459fec7e,-257",
+                                    "ValueType": "Edm.String"
+                                }
+                            ]
+                        },
+                        "FriendlyUrlSegment": "",
+                        "IsHidden": false,
+                        "Key": "/CIENCIASBIOLOGICAS/DEPARTAMENTO/PAGINAS/CURSOSVINCULADOS.ASPX",
+                        "Nodes": {
+                            "__metadata": {
+                                "type": "Collection(SP.MenuNode)"
+                            },
+                            "results": []
+                        },
+                        "NodeType": 0,
+                        "SimpleUrl": "/cienciasbiologicas/departamento/Paginas/cursosvinculados.aspx",
+                        "Title": "Os Cursos Vinculados"
+                    }
+                ]
+            },
+            "SimpleUrl": "/cienciasbiologicas/departamento/Paginas/default.aspx",
+            "SPSitePrefix": "/",
+            "SPWebPrefix": "/cienciasbiologicas/departamento",
+            "StartingNodeKey": "1002",
+            "StartingNodeTitle": "O Departamento",
+            "Version": "2017-11-09T20:17:12.6131731Z"
+        }
+    }
+}

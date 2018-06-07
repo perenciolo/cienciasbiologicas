@@ -1,0 +1,123 @@
+// DEFAULT INTERNAS
+.internas
+  //wrapper
+  &.white
+    min-height: 30rem
+  // TOPO
+  &__onca
+    // +mobile
+    //   margin-left: 20%
+    // +x-small
+    //   margin-left: 15%
+  &__title
+    display: flex
+    align-items: center
+    justify-content: center
+    margin: 0
+    &-brasao
+      width: 6rem
+      height: 6rem
+      margin-top: -.65rem
+      margin-right: 1rem
+    &-text
+      &--link
+        &:link,
+        &:visited,
+        &:hover
+          display: inline-block
+          line-height: 1.1
+          cursor: pointer
+          font-size: 2rem
+          text-align: left
+          text-decoration: none
+          font-family: rotisSans
+          color: $white
+          transition: all .2s
+          +mobile
+            white-space: nowrap
+            font-size: 1.6rem
+        &:hover
+          transform: scale(1.2) translateX(1rem)
+          line-height: .9
+  &__galeria
+    &-container
+    &-img
+      align-self: flex-end
+      &-item
+        transition: all 3s ease-in-out
+    &-heading
+      margin-left: 1vw
+      margin-bottom: 0
+      font-weight: bold
+  // CONTEÚDO
+  &__content
+    background-color: $white
+    &-wrap
+      display: flex
+      flex-direction: column
+      justify-items: center
+      align-items: center
+    &>*
+    &-heading
+      +headingDefault($teal)
+      font-size: 1.5rem
+      padding-left: .9375rem;
+  &__sidebar
+    &-heading
+      +headingDefault($teal)
+      font-size: 1rem
+      margin-bottom: 0
+      +mobile
+        margin-left: 1rem
+    &-title
+      font-size: 1.2rem
+      margin: 0 0 2rem 0
+      color: $teal
+      text-transform: uppercase
+      font-weight: 100
+    &-list
+      margin: 0
+      padding: 0
+      list-style: none
+      +mobile
+        margin: 0 1rem 1rem 1rem
+    &-item
+      display: block
+      &:not(:last-of-type)
+        padding: 1rem 0
+        border-bottom: 1px solid rgba($gray-900, .15)
+      &:last-of-type
+        padding-top: 1rem
+        padding-bottom: 2rem
+    &-link
+      &:link,
+      &:visited
+        display: block
+        color: $gray-600
+        font-size: 1rem
+        text-decoration: none
+        transition: all .5s
+      &:hover,
+      &:active
+        text-decoration: none
+        color: $teal
+        transform: scale(1.2) translateX(1.2rem)
+
+  &__main
+    margin: 0 2rem 2rem 2rem
+    font-size: .875rem
+    +mobile
+      margin: 0 1rem 1rem 1rem
+    &-title, h4, h1
+      font-size: 1.5rem
+      margin: 2rem 0
+      color: $teal
+      text-transform: uppercase
+      font-weight: 600
+    &-text
+    & p, div
+      font-size: 1rem
+      text-align: justify
+      line-height: 2
+      & img
+        margin: 1rem auto

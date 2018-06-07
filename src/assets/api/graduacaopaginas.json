@@ -1,0 +1,741 @@
+{
+  "d": {
+    "results": [{
+      "__metadata": {
+        "id": "Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)",
+        "etag": "\"4\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(1)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 1,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D400F3FBCC67832D0E49A0B54A95829857F9",
+      "Title": "In\u00edcio",
+      "Comments": null,
+      "PublishingContactId": null,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "Links de resumo",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/WelcomeLinks.aspx"
+      },
+      "PublishingIsFurlPage": null,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": null,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": null,
+      "Conteudo3": null,
+      "ID": 1,
+      "Created": "2017-11-09T20:22:09Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-09T20:22:37Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "1.0",
+      "GUID": "f0bc7a99-62d6-49c5-8569-c4ad6c67bce6"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)",
+        "etag": "\"10\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(2)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 2,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00CDFD8744E415DB4CA71880EFDC0AD9AF",
+      "Title": "O Curso",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"box-sizing&#58;border-box;margin&#58;1.8em 0px 10px;font-size&#58;1.5em;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;line-height&#58;1.1;color&#58;#53b7bb;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\">O Curso</h1><p>\n   <span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;text-align&#58;justify;\">\n   O Curso de Ci\u00eancias Biol\u00f3gicas da PUC Minas forma bachar\u00e9is e licenciados em Biologia desde 1972. O bacharelado do Curso de Ci\u00eancias Biol\u00f3gicas, no campus Cora\u00e7\u00e3o Eucar\u00edstico, destaca-se pelo envolvimento junto \u00e0s quest\u00f5es biol\u00f3gicas, \u00e9ticas, da sa\u00fade, da biotecnologia e da educa\u00e7\u00e3o, com not\u00f3rio investimento na forma\u00e7\u00e3o em meio ambiente e biodiversidade. J\u00e1 o bacharelado no Curso de Ci\u00eancias Biol\u00f3gicas de Betim possui linha de forma\u00e7\u00e3o em Gest\u00e3o Ambiental.\n   </span><br></p><p>\n   <span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;text-align&#58;justify;\">\n   O curso propicia a forma\u00e7\u00e3o de um profissional capaz de lidar com situa\u00e7\u00f5es concretas nas mais de 87 \u00e1reas de atua\u00e7\u00e3o das Ci\u00eancias Biol\u00f3gicas, conforme estabelecido na Resolu\u00e7\u00e3o n\u00ba 227/2010, de 18 de agosto de 2010, que disp\u00f5e sobre a regulamenta\u00e7\u00e3o das Atividades Profissionais e das \u00c1reas de Atua\u00e7\u00e3o do Bi\u00f3logo, em Meio Ambiente e Biodiversidade, Sa\u00fade e, Biotecnologia e Produ\u00e7\u00e3o, al\u00e9m das atividades exercidas no \u00e2mbito da licenciatura. No Curso de Ci\u00eancias Biol\u00f3gicas, o aluno ter\u00e1 ainda oportunidades de promover e participar de eventos cient\u00edficos e acad\u00eamicos, al\u00e9m da possibilidade de trabalhar com projetos de pesquisa, ensino e extens\u00e3o.\n   </span><br></p>",
+      "Conteudo3": null,
+      "ID": 2,
+      "Created": "2017-11-09T20:23:13Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-09T20:26:05Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "1.0",
+      "GUID": "38a1c67a-af45-48f4-ae70-af44ce5a9566"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)",
+        "etag": "\"13\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(3)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 3,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00CDFD8744E415DB4CA71880EFDC0AD9AF",
+      "Title": "Corpo Docente",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"margin&#58;1.8em 0px 10px;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;1.5em;color&#58;#53b7bb;line-height&#58;1.1;box-sizing&#58;border-box;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\">Corpo Docente</h1><p><span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;text-align&#58;justify;\"></span></p><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Adilson Schultz</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Alzira Batista Cecilio</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Angelica da Silva Vasconcellos</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Bruno Garzon Oliveira Camara</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Bruno Jeferson Louren\u00e7o</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Carlos Frederico Barboza de Souza</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4736723A6\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; C\u00e1ssio de Souza</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Especialista</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Castor Cartelle Guerra</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Conrado Aleksander Barbosa Galdino</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Cristiane Lafeta Furtado Mendonca</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Daniel Cardoso de Carvalho</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Deila Jord\u00e3o Franco S\u00e1bato</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Dilma da Silva</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Eug\u00eanio Batista Leite</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Fernando Costa Amaral</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Fernando Verassani Laureano</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Geraldo Tadeu Rezende Silveira</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; P\u00f3s-doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Gilmar Bastos Santos</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Henrique Paprocki</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Izabella Scalabrini Saraiva</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Janaina Sousa Campos Alvarenga</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Jo\u00e3o Nogueira Pereira</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Jorge Batista de Souza</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Jos\u00e9 Arimatea Figueiredo</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Jose Enemir dos Santos</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Jos\u00e9 Hor\u00e1cio Reis</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Juliana de Lima Passos Rezende</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Karina Fideles Filgueiras</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//lattes.cnpq.br/5926292519573432\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Katia Tomagnini Passaglio</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Lenise Maria Ribeiro Ortega</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Luciana Barreto Nascimento</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Luiz Eduardo Mour\u00e3o</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Especialista</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Luiz Eduardo Oliveira Carmo Rodrigues</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Luzia Maria de Jesus Werneck</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Marcelo Diniz Monteiro de Barros</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; P\u00f3s-doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Maria de Fatima Vieira Starling</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Meire Silva Pena</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Miguel Angelo Andrade</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Neuza de Mesquita Antonino</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Nilo Bazzoli</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Nilza Bernardes Santiago</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Paula Cabral Eterovick</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Paulo Franco Taitson</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; P\u00f3s-doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Raquel Vasconcelos Santos</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Raul de Barros Neto</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//lattes.cnpq.br/4879397452010597\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Ricardo Ferreira Ribeiro</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Rodrigo Rocha Malta</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Especialista</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; S\u00e9rgio Murilo Rodrigues</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//lattes.cnpq.br/3668852048153182\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Sim\u00e3o Pedro Pinto Marinho</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Simone Cristina Alves de Souza</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Sonia Aparecida Talamoni</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Symone Fulgencio Lima</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Doutor</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><div class=\"col-xs-12 col-sm-4 col-md-4 col-lg-4\" style=\"box-sizing&#58;border-box;min-height&#58;1px;padding-right&#58;15px;padding-left&#58;15px;float&#58;left;width&#58;259.984px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><h4 style=\"box-sizing&#58;border-box;font-family&#58;inherit;line-height&#58;1.1;color&#58;inherit;margin-top&#58;1.8em;margin-bottom&#58;10px;font-size&#58;18px;\">Professor(a)&#58; Virginia Simao Abuhid</h4><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\">Titula\u00e7\u00e3o&#58; Mestre</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;\"><a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=corpodocente#\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Curr\u00edculo Lattes</a></p></div><p>\u200b</p>",
+      "Conteudo3": null,
+      "ID": 3,
+      "Created": "2017-11-09T20:27:52Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-09T20:30:20Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "3.0",
+      "GUID": "a4344135-d6ab-4086-b974-6bbfcb1fed33"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)",
+        "etag": "\"7\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(4)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 4,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00CDFD8744E415DB4CA71880EFDC0AD9AF",
+      "Title": "Matriz Curricular",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"box-sizing&#58;border-box;margin&#58;1.8em 0px 10px;font-size&#58;1.5em;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;line-height&#58;1.1;color&#58;#53b7bb;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\">Matriz Curricular</h1><p></p><div><div class=\"row\" style=\"box-sizing&#58;border-box;margin-right&#58;-15px;margin-left&#58;-15px;\"><div class=\"col-xs-10 col-sm-9 col-md-9 col-lg-9\">\n         <div class=\"table-responsive\"> \n            <table align=\"center\" width=\"100%\" class=\"table\"><thead style=\"box-sizing&#58;border-box;\"><tr style=\"box-sizing&#58;border-box;\"><th colspan=\"4\" style=\"box-sizing&#58;border-box;padding&#58;8px;text-align&#58;left;line-height&#58;1.42857;vertical-align&#58;bottom;border-top&#58;0px;border-bottom&#58;2px solid #dddddd;\">1\u00ba per\u00edodo</th></tr><tr style=\"box-sizing&#58;border-box;\"><th width=\"40%\" style=\"box-sizing&#58;border-box;padding&#58;8px;text-align&#58;left;line-height&#58;1.42857;vertical-align&#58;bottom;border-top&#58;1px solid #dddddd;border-bottom&#58;2px solid #dddddd;\">Disciplinas</th><th width=\"10%\" style=\"box-sizing&#58;border-box;padding&#58;8px;text-align&#58;left;line-height&#58;1.42857;vertical-align&#58;bottom;border-top&#58;1px solid #dddddd;border-bottom&#58;2px solid #dddddd;\">Carga hor\u00e1ria</th><th width=\"10%\" style=\"box-sizing&#58;border-box;padding&#58;8px;text-align&#58;left;line-height&#58;1.42857;vertical-align&#58;bottom;border-top&#58;1px solid #dddddd;border-bottom&#58;2px solid #dddddd;\">Requisito(s)</th><th width=\"40%\" style=\"box-sizing&#58;border-box;padding&#58;8px;text-align&#58;left;line-height&#58;1.42857;vertical-align&#58;bottom;border-top&#58;1px solid #dddddd;border-bottom&#58;2px solid #dddddd;\">Corpo docente</th></tr><tr style=\"box-sizing&#58;border-box;\"><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-materia\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">ANATOMIA HUMANA</a></td><td align=\"right\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\">68</td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"></td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">PR\u00c1TICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\"> \n                           <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-professor\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Raquel Vasconcelos Santos</a></li> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">TE\u00d3RICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\"> \n                           <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-professor\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Raquel Vasconcelos Santos</a></li></td></tr><tr class=\"cor\" style=\"box-sizing&#58;border-box;\"><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-materia\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">BOT\u00c2NICA E ALGAS A PTERID\u00d3FITAS</a></td><td align=\"right\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\">80</td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"></td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">PR\u00c1TICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\">Professor(es) a definir</li> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">TE\u00d3RICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\">Professor(es) a definir</li></td></tr><tr style=\"box-sizing&#58;border-box;\"><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-materia\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">CITOLOGIA E HISTOLOGIA</a></td><td align=\"right\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\">68</td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"></td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">PR\u00c1TICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\">Professor(es) a definir</li> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">TE\u00d3RICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\">Professor(es) a definir</li></td></tr><tr class=\"cor\" style=\"box-sizing&#58;border-box;\"><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-materia\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">EVOLU\u00c7\u00c3O E BIOGEOGRAFIA</a></td><td align=\"right\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\">68</td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"></td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">TE\u00d3RICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\"> \n                           <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-professor\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Virginia Simao Abuhid</a></li></td></tr><tr style=\"box-sizing&#58;border-box;\"><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-materia\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">FORMA\u00c7\u00c3O EM CI\u00caNCIAS BIOL\u00d3GICAS</a></td><td align=\"right\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\">17</td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"></td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">TE\u00d3RICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\">Professor(es) a definir</li></td></tr><tr class=\"cor\" style=\"box-sizing&#58;border-box;\"><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-materia\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">INVERTEBRADOS N\u00c3O CELOMADOS</a></td><td align=\"right\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\">68</td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"></td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">PR\u00c1TICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\">Professor(es) a definir</li> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">TE\u00d3RICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\">Professor(es) a definir</li></td></tr><tr style=\"box-sizing&#58;border-box;\"><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matrizcurricular#box-materia\" name=\"modal\" data-ajax=\"true\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">PLANEJAMENTO E GEST\u00c3O AMBIENTAL</a></td><td align=\"right\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\">34</td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"></td><td align=\"left\" style=\"box-sizing&#58;border-box;padding&#58;8px;line-height&#58;1.42857;vertical-align&#58;top;border-top&#58;1px solid #dddddd;\"> \n                        <br style=\"box-sizing&#58;border-box;\"> \n                        <span style=\"box-sizing&#58;border-box;font-weight&#58;700;\">TE\u00d3RICA&#58;</span> \n                        <li style=\"box-sizing&#58;border-box;\">Professor(es) a definir</li></td></tr></thead></table></div><div style=\"box-sizing&#58;border-box;\"> \n            <a class=\"btn btn-primary\" href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=matriz\" style=\"box-sizing&#58;border-box;background-color&#58;#337ab7;color&#58;#ffffff;display&#58;inline-block;padding&#58;6px 12px;margin-bottom&#58;0px;line-height&#58;1.42857;text-align&#58;center;white-space&#58;nowrap;vertical-align&#58;middle;cursor&#58;pointer;background-image&#58;none;border&#58;1px solid #2e6da4;border-radius&#58;4px;\">Matriz completa</a></div><div> \n            <br> \n         </div></div></div></div> \n<span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;background-color&#58;#000000;\"></span> \n<p> \n   <span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;text-align&#58;justify;\"></span><br></p>",
+      "Conteudo3": null,
+      "ID": 4,
+      "Created": "2017-11-09T20:31:21Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-09T20:34:20Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "1.0",
+      "GUID": "0aa565fc-b1aa-4210-8d38-43de780d5862"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)",
+        "etag": "\"7\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(5)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 5,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00CDFD8744E415DB4CA71880EFDC0AD9AF",
+      "Title": "bacharelado",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"box-sizing&#58;border-box;margin&#58;1.8em 0px 10px;font-size&#58;1.5em;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;line-height&#58;1.1;color&#58;#53b7bb;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\">O Bacharelado</h1><p></p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">Para a fundamenta\u00e7\u00e3o da proposta do Bacharelado em Ci\u00eancias Biol\u00f3gicas, tomou-se o mercado e a profiss\u00e3o como eixo fundante que justifica a matura\u00e7\u00e3o entre o bacharelado com linha de forma\u00e7\u00e3o em educa\u00e7\u00e3o ambiental, oferecido no projeto anterior, agora um contexto mais ampliado, com uma abordagem que reflete a forma\u00e7\u00e3o do profissional bi\u00f3logo alinhado para as quest\u00f5es do Meio Ambiente e da Biodiversidade.</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">O Bacharelado em Ci\u00eancias Biol\u00f3gicas deve considerar que a escolha para Linha de Forma\u00e7\u00e3o em Meio Ambiente e Biodiversidade&#58;</p><ul style=\"box-sizing&#58;border-box;margin-top&#58;0px;margin-bottom&#58;10px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><li style=\"box-sizing&#58;border-box;\">Refor\u00e7a a forma\u00e7\u00e3o e a pr\u00e1tica dial\u00f3gica com a licenciatura, n\u00e3o \u201ccompetindo\u201d com ela;</li><li style=\"box-sizing&#58;border-box;\">Viabiliza a realiza\u00e7\u00e3o do est\u00e1gio, oferecendo possibilidades diversificadas de campos para seu desenvolvimento;</li><li style=\"box-sizing&#58;border-box;\">Ressalta e garante a efetiva\u00e7\u00e3o dos princ\u00edpios e diretrizes para a forma\u00e7\u00e3o proposta&#58; interdisciplinaridade, articula\u00e7\u00e3o teoria e pr\u00e1tica, indissociabilidade entre ensino, pesquisa e extens\u00e3o, flexibilidade e forma\u00e7\u00e3o humanista;</li><li style=\"box-sizing&#58;border-box;\">Promove a extens\u00e3o no curso atrav\u00e9s, principalmente de a\u00e7\u00f5es de interven\u00e7\u00e3o social e inclus\u00e3o;</li><li style=\"box-sizing&#58;border-box;\">Refor\u00e7a e garante o compromisso do Ensino Superior, especialmente das Ci\u00eancias Biol\u00f3gicas, com um futuro vi\u00e1vel a partir dos preceitos da sustentabilidade;</li><li style=\"box-sizing&#58;border-box;\">Ressalta os la\u00e7os de coopera\u00e7\u00e3o e integra\u00e7\u00e3o entre os cursos da Universidade;</li><li style=\"box-sizing&#58;border-box;\">Propicia uma articula\u00e7\u00e3o eficiente com os Programas de P\u00f3s-Gradua\u00e7\u00e3o da PUC Minas, na perspectiva de fomentar a pesquisa e a forma\u00e7\u00e3o continuada do corpo docente e discente;</li><li style=\"box-sizing&#58;border-box;\">Potencializa a\u00e7\u00f5es represadas na \u00e1rea ambiental, fortalecendo espa\u00e7o de forma\u00e7\u00e3o de excel\u00eancia, j\u00e1 existentes&#58; CISAL, CEIVA, Museu de Ci\u00eancias Naturais da PUC Minas, Mata da PUC Minas, Fazenda da PUC Minas;</li><li style=\"box-sizing&#58;border-box;\">Estimula a contribui\u00e7\u00e3o ativa e efetiva junto \u00e0 sociedade, sejam pela forma\u00e7\u00e3o de pol\u00edticas p\u00fablicas, estudos de refer\u00eancia, representa\u00e7\u00e3o em conselhos (CODEMAs, COPAM, Unidades de Conserva\u00e7\u00e3o, Polos de Excel\u00eancia), articula\u00e7\u00e3o com diversos atores.</li></ul>",
+      "Conteudo3": null,
+      "ID": 5,
+      "Created": "2017-11-09T20:37:05Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-09T20:37:51Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "1.0",
+      "GUID": "27aeb767-4ee7-473d-a65c-d3a9118e74ed"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)",
+        "etag": "\"7\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(6)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 6,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00CDFD8744E415DB4CA71880EFDC0AD9AF",
+      "Title": "A Licenciatura",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"box-sizing&#58;border-box;margin&#58;1.8em 0px 10px;font-size&#58;1.5em;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;line-height&#58;1.1;color&#58;#53b7bb;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\">A Licenciatura</h1><p></p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">O curso de licenciatura em Ci\u00eancias Biol\u00f3gicas oferece e prepara o bi\u00f3logo e educador para a forma\u00e7\u00e3o que favore\u00e7a uma atua\u00e7\u00e3o em espa\u00e7os diversificados, com uma atitude inclusiva, comprometida com sua responsabilidade social e ambiental. Em s\u00edntese, isto equivale a contemplar&#58;</p><ul style=\"box-sizing&#58;border-box;margin-top&#58;0px;margin-bottom&#58;10px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><li style=\"box-sizing&#58;border-box;\">A prepara\u00e7\u00e3o dos discentes para atuar nas Institui\u00e7\u00f5es de Educa\u00e7\u00e3o B\u00e1sica, em especial Ensino Fundamental e M\u00e9dio, no Ensino de Jovens e Adultos, nas Escolas t\u00e9cnicas e Escolas Inclusivas;</li><li style=\"box-sizing&#58;border-box;\">A educa\u00e7\u00e3o para a sustentabilidade em suas m\u00faltiplas dimens\u00f5es (ambiental, cultural, pol\u00edtico-cultural, econ\u00f4mica);</li><li style=\"box-sizing&#58;border-box;\">A educa\u00e7\u00e3o em espa\u00e7os n\u00e3o-formais&#58; museus, centros de ci\u00eancias e de educa\u00e7\u00e3o ambiental, jardins bot\u00e2nicos e zool\u00f3gicos, centros de pesquisa, organiza\u00e7\u00f5es governamentais e n\u00e3o governamentais, entre outros;</li><li style=\"box-sizing&#58;border-box;\">A educa\u00e7\u00e3o para o empreendedorismo;</li><li style=\"box-sizing&#58;border-box;\">A forma\u00e7\u00e3o para a pesquisa em ensino, educa\u00e7\u00e3o e em \u00e1reas afins;</li><li style=\"box-sizing&#58;border-box;\">A integra\u00e7\u00e3o com outras inst\u00e2ncias institucionais&#58;&#160;<a target=\"_blank\" href=\"/cultura/index_padrao.php?pagina=3369\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">NAI</a>,&#160;<a target=\"_blank\" href=\"/graduacao/index1.php?tipo_form=info&amp;codigo=8&amp;pag=1415\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Cursos de Gradua\u00e7\u00e3o em Pedagogia</a>&#160;e outras licenciaturas, Programas de P\u00f3s-Gradua\u00e7\u00e3o&#160;<em style=\"box-sizing&#58;border-box;\">stricto sensu</em>&#160;(Mestrado Profissional em&#160;<a target=\"_blank\" href=\"/pos/ensino/destaques.php\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Ensino de Ci\u00eancias e Matem\u00e1tica</a>, Mestrado e Doutorado Acad\u00eamicos em&#160;<a target=\"_blank\" href=\"/pos/educacao/destaques.php\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Educa\u00e7\u00e3o</a>&#160;e Mestrado e Doutorado Acad\u00eamicos em&#160;<a target=\"_blank\" href=\"/pos/letras/destaques.php\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Letras</a>), CEFOR,&#160;<a target=\"_blank\" href=\"/portal/index_padrao.php?pagina=5221\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Museu de Ci\u00eancias Naturais PUC Minas</a>,&#160;<a target=\"_blank\" href=\"https&#58;//www.facebook.com/sistemicaej\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Sist\u00eamica \u2013 Empresa J\u00fanior dos Cursos de Ci\u00eancias Biol\u00f3gicas e Geografia</a>;</li><li style=\"box-sizing&#58;border-box;\">A articula\u00e7\u00e3o e consolida\u00e7\u00e3o de parcerias com programas e projetos educacionais com os quais a PUC Minas tem parceria&#58; PIBID, Escola Integrada e Escola da Gente, MAGISTRA \u2013 Escola de Forma\u00e7\u00e3o da SEEMG (\u201cEscola da Escola\u201d);</li><li style=\"box-sizing&#58;border-box;\">A Educa\u00e7\u00e3o \u00e0 Dist\u00e2ncia (EAD) com oferta de disciplinas virtuais (at\u00e9 20% da carga hor\u00e1ria)</li></ul>",
+      "Conteudo3": null,
+      "ID": 6,
+      "Created": "2017-11-09T20:38:17Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-09T20:39:25Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "1.0",
+      "GUID": "63c9cfcd-a9c1-4abd-adda-f5e31d472234"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)",
+        "etag": "\"13\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(7)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 7,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00CDFD8744E415DB4CA71880EFDC0AD9AF",
+      "Title": "Atividades Complementares de Gradua\u00e7\u00e3o (ACGs)",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"box-sizing&#58;border-box;margin&#58;1.8em 0px 10px;font-size&#58;1.5em;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;line-height&#58;1.1;color&#58;#53b7bb;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\">Atividades Complementares de Gradua\u00e7\u00e3o (ACGs)</h1><p></p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">As Atividades Complementares de Gradua\u00e7\u00e3o (ACG) est\u00e3o inseridas como uma das propostas relacionadas \u00e0 estrutura curricular flexibilizada. Estas atividades surgem como uma estrat\u00e9gia did\u00e1tica, indicadas pelas Diretrizes Curriculares para os cursos de Ci\u00eancias Biol\u00f3gicas visando garantir a articula\u00e7\u00e3o entre a teoria e pr\u00e1tica, a indissociabilidade ensino, pesquisa e extens\u00e3o, e o desenvolvimento de atividades acad\u00eamico-cient\u00edfico e culturais. A flexibiliza\u00e7\u00e3o curricular \u00e9 caracterizada por a\u00e7\u00f5es que possibilitam forma\u00e7\u00e3o complementar interdisciplinar particular ao aluno, incentivando a intera\u00e7\u00e3o entre as disciplinas e respeitando a diversidade de forma\u00e7\u00e3o, interesse e autonomia acad\u00eamica.</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">As ACG constituem em estrat\u00e9gia que viabiliza o desenvolvimento da autonomia do aluno para intervir no processo de forma\u00e7\u00e3o, ampliando e diversificando suas fontes de saberes. Ao mesmo tempo, torna-se campo de a\u00e7\u00e3o para o desenvolvimento da capacidade do aluno de lidar com problemas e buscar solu\u00e7\u00f5es.</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">\n   <a type=\"button\" data-toggle=\"modal\" data-target=\"#modal1\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\"><img src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/acgs.png\" alt=\"\" style=\"box-sizing&#58;border-box;border-width&#58;0px;border-style&#58;initial;vertical-align&#58;middle;margin&#58;5px;\" /></a></p>",
+      "Conteudo3": null,
+      "ID": 7,
+      "Created": "2017-11-09T20:40:14Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-09T20:41:50Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "3.0",
+      "GUID": "8794252e-d212-4de6-8939-b55dbdcc3dab"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)",
+        "etag": "\"12\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/graduacao/_api/Web/Lists(guid'e98a9f5a-d257-4f26-9997-b582dbc1d6c3')/Items(9)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 9,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00CDFD8744E415DB4CA71880EFDC0AD9AF",
+      "Title": "Perfil dos Egressos",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"box-sizing&#58;border-box;margin&#58;1.8em 0px 10px;font-size&#58;1.5em;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;line-height&#58;1.1;color&#58;#53b7bb;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\">Perfil dos Egressos</h1><p></p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">Segundo as Diretrizes Curriculares para os cursos de Ci\u00eancias Biol\u00f3gicas (CNE/CES 1.301/2001), e perfil almejado para a forma\u00e7\u00e3o em Ci\u00eancias Biol\u00f3gicas da PUC Minas, o egresso deste curso dever\u00e1&#58;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">a) Ter forma\u00e7\u00e3o generalista, dotado de um largo espectro de compet\u00eancias gen\u00e9ricas em disciplinas variadas;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">b) Ser sujeito da sua pr\u00f3pria aprendizagem, atuando de maneira cr\u00edtica e criativa;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">c) Ter uma adequada fundamenta\u00e7\u00e3o te\u00f3rico-pr\u00e1tica que inclua a instrumenta\u00e7\u00e3o para o ensino e pesquisa, um conhecimento profundo da diversidade biol\u00f3gica quanto \u00e0 sua organiza\u00e7\u00e3o e funcionamento em diversos n\u00edveis, \u00e0s rela\u00e7\u00f5es filogen\u00e9ticas, aos padr\u00f5es de distribui\u00e7\u00e3o e \u00e0s rela\u00e7\u00f5es com o ambiente, em uma perspectiva hist\u00f3rica e evolutiva. Esta forma\u00e7\u00e3o deve ser embasada no entendimento epistemol\u00f3gico para a constru\u00e7\u00e3o do conhecimento t\u00e9cnico cient\u00edfico e pedag\u00f3gico;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">d) Ser comprometido com os resultados de sua atua\u00e7\u00e3o pautando a sua conduta profissional por crit\u00e9rios human\u00edsticos e de rigor cient\u00edfico, bem como por referenciais \u00e9ticos e legais;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">e) Ter consci\u00eancia da realidade em que vai atuar e da necessidade de se tornar agente transformador dessa realidade, compreendendo a sua responsabilidade para com o desenvolvimento sustent\u00e1vel e a qualidade de vida;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">f) Ser consciente de sua responsabilidade como educador nos v\u00e1rios contextos de atua\u00e7\u00e3o profissional;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">g) Ser capaz de trabalhar em equipes multidisciplinares, com vis\u00e3o sist\u00eamica;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">h) Ser consciente da necessidade de investir de forma sistem\u00e1tica e aut\u00f4noma na sua forma\u00e7\u00e3o continuada;</p><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">i) Estar preparado para desenvolver ideias inovadoras e a\u00e7\u00f5es estrat\u00e9gicas, capazes de ampliar e aperfei\u00e7oar sua \u00e1rea de atua\u00e7\u00e3o.</p>",
+      "Conteudo3": null,
+      "ID": 9,
+      "Created": "2017-11-10T12:05:29Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-10T12:07:27Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "46d05bd3-cb72-47a7-bd7d-80243566347b"
+    }]
+  }
+}

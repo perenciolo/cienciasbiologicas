@@ -1,0 +1,79 @@
+{
+  "d": {
+    "__metadata": {
+      "id": "Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)",
+      "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)",
+      "etag": "\"3\"",
+      "type": "SP.Data.GaleriainfraListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/ContentType"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/Folder"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'2cd70ab8-e58b-4938-9ead-3c41c89cf636')/Items(2)/ParentList"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 2,
+    "ContentTypeId": "0x0100E9AF1F5E8ABEA14592007CFBBBD12948",
+    "Title": "Imagem 2",
+    "Imagem": {
+      "__metadata": {
+        "type": "SP.FieldUrlValue"
+      },
+      "Description": "Imagem 2",
+      "Url": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/PublishingImages/galeriainfra/2.jpg"
+    },
+    "ID": 2,
+    "Modified": "2017-12-05T18:05:12Z",
+    "Created": "2017-12-05T18:03:55Z",
+    "AuthorId": 111,
+    "EditorId": 111,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "7dc11c20-54e4-4639-b3fe-5cb05eeafd00"
+  }
+}

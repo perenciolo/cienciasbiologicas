@@ -1,0 +1,230 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)",
+                    "etag": "\"11\"",
+                    "type": "SP.Data.PaginasItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(1)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 1,
+                "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00AEA1005E75C5A44995F5C23AA6CD4C55",
+                "Title": "Início",
+                "Comments": null,
+                "PublishingContactId": null,
+                "PublishingContactEmail": null,
+                "PublishingContactName": null,
+                "PublishingContactPicture": null,
+                "PublishingPageLayout": {
+                    "__metadata": {
+                        "type": "SP.FieldUrlValue"
+                    },
+                    "Description": "PUC - PageLayout - Ciências Biológicas - Internas",
+                    "Url": "http://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+                },
+                "PublishingIsFurlPage": null,
+                "SeoBrowserTitle": null,
+                "SeoMetaDescription": null,
+                "SeoKeywords": null,
+                "RobotsNoIndex": null,
+                "ArticleByLine": null,
+                "ArticleStartDate": null,
+                "PublishingImageCaption": null,
+                "Conteudo2": null,
+                "Conteudo3": null,
+                "StartDate": null,
+                "TaskDueDate": null,
+                "AssignedToId": null,
+                "PercentComplete": null,
+                "Body": null,
+                "PredecessorsId": {
+                    "__metadata": {
+                        "type": "Collection(Edm.Int32)"
+                    },
+                    "results": []
+                },
+                "Priority": null,
+                "TaskStatus": null,
+                "RelatedItems": null,
+                "WorkflowLink": null,
+                "OffsiteParticipant": null,
+                "OffsiteParticipantReason": null,
+                "WorkflowOutcome": null,
+                "WorkflowName": null,
+                "ID": 1,
+                "Created": "2017-11-09T19:29:16Z",
+                "AuthorId": 111,
+                "Modified": "2017-11-09T20:02:26Z",
+                "EditorId": 111,
+                "OData__CopySource": null,
+                "CheckoutUserId": null,
+                "OData__UIVersionString": "3.0",
+                "GUID": "9f094ab7-61cd-41ac-961c-5534215afbdb"
+            },
+            {
+                "__metadata": {
+                    "id": "Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)",
+                    "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)",
+                    "etag": "\"10\"",
+                    "type": "SP.Data.PaginasItem"
+                },
+                "FirstUniqueAncestorSecurableObject": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/FirstUniqueAncestorSecurableObject"
+                    }
+                },
+                "RoleAssignments": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/RoleAssignments"
+                    }
+                },
+                "AttachmentFiles": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/AttachmentFiles"
+                    }
+                },
+                "ContentType": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/ContentType"
+                    }
+                },
+                "FieldValuesAsHtml": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/FieldValuesAsHtml"
+                    }
+                },
+                "FieldValuesAsText": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/FieldValuesAsText"
+                    }
+                },
+                "FieldValuesForEdit": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/FieldValuesForEdit"
+                    }
+                },
+                "File": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/File"
+                    }
+                },
+                "Folder": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/Folder"
+                    }
+                },
+                "ParentList": {
+                    "__deferred": {
+                        "uri": "http://www.pucminas.br/cienciasbiologicas/departamento/_api/Web/Lists(guid'48fa8b67-465e-4167-bfdf-a43d63712bdc')/Items(2)/ParentList"
+                    }
+                },
+                "FileSystemObjectType": 0,
+                "Id": 2,
+                "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00AEA1005E75C5A44995F5C23AA6CD4C55",
+                "Title": "Os Cursos Vinculados",
+                "Comments": null,
+                "PublishingContactId": 111,
+                "PublishingContactEmail": null,
+                "PublishingContactName": null,
+                "PublishingContactPicture": null,
+                "PublishingPageLayout": {
+                    "__metadata": {
+                        "type": "SP.FieldUrlValue"
+                    },
+                    "Description": "PUC - PageLayout - Ciências Biológicas - Internas",
+                    "Url": "http://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+                },
+                "PublishingIsFurlPage": false,
+                "SeoBrowserTitle": null,
+                "SeoMetaDescription": null,
+                "SeoKeywords": null,
+                "RobotsNoIndex": false,
+                "ArticleByLine": null,
+                "ArticleStartDate": null,
+                "PublishingImageCaption": null,
+                "Conteudo2": "<h1 style=\"box-sizing&#58;border-box;margin&#58;1.8em 0px 10px;font-size&#58;1.5em;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;line-height&#58;1.1;color&#58;#53b7bb;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\"> Os Cursos Vinculados </h1><p></p><ul style=\"box-sizing&#58;border-box;margin-top&#58;0px;margin-bottom&#58;10px;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\"><li style=\"box-sizing&#58;border-box;\"> <a target=\"_blank\" href=\"/ensino/grade/cursos.php?curso=349\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Biomedicina</a></li><li style=\"box-sizing&#58;border-box;\"> <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=bacharelado\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Ciências Biológicas – Bacharelado</a></li><li style=\"box-sizing&#58;border-box;\"> <a href=\"http&#58;//www1.pucminas.br/cienciasbiologicas/index.php?file=licenciatura\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Ciências Biológicas – Licenciatura</a></li><li style=\"box-sizing&#58;border-box;\"> <a target=\"_blank\" href=\"http&#58;//www1.pucminas.br/pos/zoologia/destaques.php\" style=\"box-sizing&#58;border-box;background-color&#58;transparent;color&#58;#337ab7;\">Programa de Pós-Graduação em Biologia de Vertebrados</a></li></ul><p> <span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;text-align&#58;justify\"></span><br></p>",
+                "Conteudo3": null,
+                "StartDate": "2017-11-09T21:00:00Z",
+                "TaskDueDate": null,
+                "AssignedToId": null,
+                "PercentComplete": null,
+                "Body": null,
+                "PredecessorsId": {
+                    "__metadata": {
+                        "type": "Collection(Edm.Int32)"
+                    },
+                    "results": []
+                },
+                "Priority": "(2) Normal",
+                "TaskStatus": "Não Iniciada",
+                "RelatedItems": null,
+                "WorkflowLink": null,
+                "OffsiteParticipant": null,
+                "OffsiteParticipantReason": null,
+                "WorkflowOutcome": null,
+                "WorkflowName": null,
+                "ID": 2,
+                "Created": "2017-11-09T20:03:05Z",
+                "AuthorId": 111,
+                "Modified": "2017-11-09T20:05:04Z",
+                "EditorId": 111,
+                "OData__CopySource": null,
+                "CheckoutUserId": null,
+                "OData__UIVersionString": "2.0",
+                "GUID": "7e70c870-449f-46c5-aaa7-ed0dc26f8d4b"
+            }
+        ]
+    }
+}

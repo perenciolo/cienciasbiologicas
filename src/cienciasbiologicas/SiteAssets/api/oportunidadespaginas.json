@@ -1,0 +1,281 @@
+{
+  "d": {
+    "results": [{
+      "__metadata": {
+        "id": "Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)",
+        "etag": "\"11\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(1)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 1,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C008E9DF96D1E8FDB42A22194EFFF810C97",
+      "Title": "Programa de Est\u00e1gio N\u00e3o-Obrigat\u00f3rios",
+      "Comments": null,
+      "PublishingContactId": null,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": null,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": null,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"box-sizing&#58;border-box;margin&#58;1.8em 0px 10px;font-size&#58;1.5em;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;line-height&#58;1.1;color&#58;#53b7bb;padding-top&#58;1.5em;width&#58;750px;min-height&#58;73px;background-position&#58;right center;background-size&#58;initial;background-repeat&#58;no-repeat;background-attachment&#58;initial;background-origin&#58;initial;background-clip&#58;initial;\">Programa de Est\u00e1gio N\u00e3o-Obrigat\u00f3rios</h1><p> \n   <span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;text-align&#58;justify;\">O est\u00e1gio n\u00e3o-obrigat\u00f3rio \u00e9 aquele desenvolvido como atividade opcional, acrescida \u00e0 carga hor\u00e1ria regular e obrigat\u00f3ria, por isso, este est\u00e1gio pode ser aproveitado pelo estudante do curso como Atividade Complementar de Gradua\u00e7\u00e3o (ACG). Dentro desta perspectiva, o est\u00e1gio n\u00e3o obrigat\u00f3rio tamb\u00e9m contar\u00e1 com a supervis\u00e3o de um professor do corpo docente do curso, para que ele possa efetivamente ser um instrumento vivencial de capacita\u00e7\u00e3o profissional e de forma\u00e7\u00e3o educacional do estudante.</span><br></p>",
+      "Conteudo3": null,
+      "ID": 1,
+      "Created": "2017-11-20T12:13:24Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-20T12:32:50Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "3.0",
+      "GUID": "8af79f88-940f-418a-b03d-fa7a562a3a79"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)",
+        "etag": "\"17\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(2)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 2,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C008E9DF96D1E8FDB42A22194EFFF810C97",
+      "Title": "Programa de Est\u00e1gio N\u00e3o-Obrigat\u00f3rios",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"font-size&#58;1.5em;color&#58;#53b7bb;\">Programa de Est\u00e1gio N\u00e3o-Obrigat\u00f3rios</h1><p style=\"box-sizing&#58;border-box;line-height&#58;2em;text-align&#58;justify;color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;\">O est\u00e1gio n\u00e3o-obrigat\u00f3rio \u00e9 aquele desenvolvido como atividade opcional, acrescida \u00e0 carga hor\u00e1ria regular e obrigat\u00f3ria, por isso, este est\u00e1gio pode ser aproveitado pelo estudante do curso como Atividade Complementar de Gradua\u00e7\u00e3o (ACG). Dentro desta perspectiva, o est\u00e1gio n\u00e3o obrigat\u00f3rio tamb\u00e9m contar\u00e1 com a supervis\u00e3o de um professor do corpo docente do curso, para que ele possa efetivamente ser um instrumento vivencial de capacita\u00e7\u00e3o profissional e de forma\u00e7\u00e3o educacional do estudante.</p><p></p>",
+      "Conteudo3": null,
+      "ID": 2,
+      "Created": "2017-11-20T12:14:57Z",
+      "AuthorId": 111,
+      "Modified": "2018-02-05T12:53:02Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "4.0",
+      "GUID": "6d888ebc-b482-40fe-94fa-c2ff0febe874"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)",
+        "etag": "\"13\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/oportunidades/_api/Web/Lists(guid'59fa18ef-b32a-4e43-90f7-c1266017f820')/Items(3)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 3,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C008E9DF96D1E8FDB42A22194EFFF810C97",
+      "Title": "Programa de Monitorias",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<h1 style=\"font-size&#58;1.5em;color&#58;#53b7bb;\">Programa de Monitorias</h1><p> \n   <span style=\"color&#58;#999999;font-family&#58;&quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size&#58;14px;text-align&#58;justify;\">O programa de Monitoria da PUC Minas, que se desenvolve no \u00e2mbito do curso de Ci\u00eancias Biol\u00f3gicas, constitui-se em um espa\u00e7o de forma\u00e7\u00e3o que proporciona uma inicia\u00e7\u00e3o para o exerc\u00edcio futuro da doc\u00eancia, o aperfei\u00e7oamento t\u00e9cnico-cient\u00edfico e a participa\u00e7\u00e3o dos alunos em trabalhos de pesquisa e pr\u00e1ticas investigativas desenvolvidas pelos Departamentos/cursos/disciplinas.</span><br></p>",
+      "Conteudo3": null,
+      "ID": 3,
+      "Created": "2017-11-20T12:33:55Z",
+      "AuthorId": 111,
+      "Modified": "2018-02-05T12:53:35Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "3.0",
+      "GUID": "a94962e7-a54b-4921-a1d4-c8d43b19db36"
+    }]
+  }
+}

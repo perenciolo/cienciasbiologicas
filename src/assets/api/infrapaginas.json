@@ -1,0 +1,985 @@
+{
+  "d": {
+    "results": [{
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)",
+        "etag": "\"17\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(1)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 1,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "In\u00edcio",
+      "Comments": null,
+      "PublishingContactId": null,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": null,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": null,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": null,
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 1,
+      "Created": "2017-11-10T12:08:36Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-20T14:06:03Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "3.0",
+      "GUID": "adc52cb6-a98c-4bd0-a75a-2cf6614da7b8"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)",
+        "etag": "\"85\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(2)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 2,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "Infraestrutura",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - P\u00e1ginas Infra",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-infra.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\"><h4>Infraestrutura</h4></div></div><div class=\"row\"><div class=\"col-xs-12 col-sm-6 pl-0\"><p> O curso de Ci\u00eancias Biol\u00f3gicas conta com uma \u00f3tima infraestrutura de apoio. S\u00e3o utilizados&#58; laborat\u00f3rios comuns do Instituto de Ci\u00eancias Biol\u00f3gicas e da Sa\u00fade (ICBS) e laborat\u00f3rios espec\u00edficos; salas-ambiente; a Mata da PUC Minas; o CEIVA, programas e projetos de extens\u00e3o; Laborat\u00f3rio de Biotecnologia e Gen\u00e9tica, laborat\u00f3rios de Educa\u00e7\u00e3o Ambiental e Doc\u00eancia e sala de professores para apoio e orienta\u00e7\u00e3o de est\u00e1gios, ACG e projetos. </p></div><div class=\"col-xs-12 col-sm-6\">\n         <img src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/jaguar8.png\" class=\"img-fluid\" alt=\"\" />\n      </div></div></div>",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": [1, 2, 3, 4, 5, 6, 7, 8]
+      },
+      "ID": 2,
+      "Created": "2017-11-10T12:09:43Z",
+      "AuthorId": 111,
+      "Modified": "2017-12-07T16:56:48Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "27.0",
+      "GUID": "1cf1335a-5cbe-4425-9b71-1ec9ce1cfeb4"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)",
+        "etag": "\"31\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(3)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 3,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "Salas de Aula",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\"><h4>Salas de Aula</h4></div></div><div class=\"row\"><div class=\"col-xs-12 col-sm-7 pl-0\"><p> As salas de aula s\u00e3o equipadas com projetores multim\u00eddia e acesso \u00e0 internet (rede wireless \u2013 \u201csem fio\u201d) para a realiza\u00e7\u00e3o das aulas te\u00f3ricas. </p></div><div class=\"col-xs-12 col-sm-5\">\n         <img src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/salas-de-aula.jpg\" class=\"img-fluid\" alt=\"\" />\n      </div></div></div>",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 3,
+      "Created": "2017-11-10T12:35:25Z",
+      "AuthorId": 111,
+      "Modified": "2017-12-07T15:39:37Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "9.0",
+      "GUID": "d69517a7-0e04-4e80-9819-ddd5a14ce605"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)",
+        "etag": "\"19\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(4)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 4,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "Laborat\u00f3rios",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\"><h4>PR\u00c9DIO 27 </h4><p>\n             <strong>Laborat\u00f3rio de Biotecnologia e Gen\u00e9tica</strong>  \n             <br> Sala de apoio do laborat\u00f3rio de Biotecnologia e Gen\u00e9tica. Atende \u00e0s aulas pr\u00e1ticas das disciplinas de Biologia Molecular, Gen\u00e9tica, al\u00e9m de atuar como espa\u00e7o fomentador de atividades de pesquisa e extens\u00e3o. </p><div class=\"row\"><div class=\"col-xs-12 col-sm-7\"> O laborat\u00f3rio est\u00e1 estruturado com 4 a\u00e9reas separadas fisicamente sendo&#58; uma sala de preparo de amplifica\u00e7\u00f5es de DNA e cultivo celular; uma sala de preparo de material e autoclava\u00e7\u00e3o; uma sala ampla contendo 5 bancadas centrais para as atividades das aulas pr\u00e1ticas e bancadas laterais com diversos equipamentos que atendem \u00e0s atividades de Biologia molecular e Gen\u00e9tica (termocicladores, microcentr\u00edfugas, leitor de ELISA, espectrofot\u00f4metro, agitadores magn\u00e9ticos, vortex, refrigeradores duplex, sistemas de eletroforese vertical e horizontal); uma sala de apoio aos professores e ao t\u00e9cnico do laborat\u00f3rio e de recep\u00e7\u00e3o de alunos. </div><div class=\"col-xs-12 col-sm-5\">\n                <img class=\"img-fluid\" src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/predio27.png\" alt=\"\" />\n             </div></div><p>\n             <strong>Laborat\u00f3rio de Ci\u00eancias Ambientais</strong><br> Espa\u00e7o para orienta\u00e7\u00e3o de projetos de pesquisa e extens\u00e3o universit\u00e1ria, interven\u00e7\u00e3o na \u00e1rea socioambiental, em especial das disciplinas de Est\u00e1gio do Bacharelado em Ci\u00eancias Ambientais I, Est\u00e1gio do Bacharelado em Ci\u00eancias Ambientais II, Projetos de Ci\u00eancias Ambientais e TCC. </p><p>\n             <strong>Laborat\u00f3rio de Doc\u00eancia</strong><br> Para forma\u00e7\u00e3o do Licenciado este espa\u00e7o apresenta-se como estrat\u00e9gico, pois nele s\u00e3o realizadas as orienta\u00e7\u00f5es dos est\u00e1gios supervisionados da Licenciatura, al\u00e9m das aulas das disciplinas de est\u00e1gio e outras do n\u00facleo de Doc\u00eancias&#58; Ensino de Ci\u00eancias, Ensino de Biologia, Ensino para Diversidade, Est\u00e1gios Supervisionados I, II e III, al\u00e9m, da disciplina Oficina de Extens\u00e3o. Abriga, ainda, diferentes projetos de Extens\u00e3o e Inicia\u00e7\u00e3o a doc\u00eancia que potencializam a forma\u00e7\u00e3o. \u00c9 o caso do - Programa Institucional de Bolsa de Inicia\u00e7\u00e3o \u00e0 Doc\u00eancia \u2013 PIBID (EDITAL N\u00ba 02/2009 \u2013 CAPES/DEB, ampliado pelo EDITAL CAPES N\u00ba 011 /2012), do Programa Escola Integrada, dos Projetos de Educa\u00e7\u00e3o Ambiental. </p><h4>PR\u00c9DIO 23</h4><p>\n             <strong>Laborat\u00f3rios de Anatomia Humana</strong><br> Possuem laborat\u00f3rios, sala de preparo de pe\u00e7as anat\u00f4micas e sala de apoio aos professores. Atende a disciplina de Anatomia Humana. </p><div class=\"row\"><div class=\"col-xs-12 col-sm-5\">\n                <img class=\"img-fluid\" src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/predio23.png\" alt=\"\" />\n             </div><div class=\"col-xs-12 col-sm-7\">\n                <strong>Laborat\u00f3rio de Bioqu\u00edmica</strong><br> Possui laborat\u00f3rio e sala de apoio aos professores. Atende a disciplina de Bioqu\u00edmica Celular. </div></div><p>\n             <strong>Laborat\u00f3rio de Fisiologia e Farmacologia</strong><br> Possui laborat\u00f3rio e sala de apoio aos professores e preparo de material. Atende \u00e0s disciplinas de Fisiologia e Biof\u00edsica. </p><p>\n             <strong>Laborat\u00f3rio de Microbiologia, Parasitologia, Imunologia e Patologia</strong><br> Possui laborat\u00f3rio, sala de apoio aos professores e sala para preparo de material microbiol\u00f3gico. \u00c9 utilizado pelas disciplinas de Microbiologia, Imunologia e Parasitologia. </p><p>\n             <strong>Laborat\u00f3rio de Morfologia Microsc\u00f3pica&#58; Citologia, Histologia e Embriologia</strong><br> Possui laborat\u00f3rios utilizados para aulas te\u00f3rico-pr\u00e1ticas e um outro de T\u00e9cnicas Histol\u00f3gicas utilizado para preparo de material e sala de apoio aos professores. Atende as disciplinas de Citologia e Histologia e Embriologia. </p><h4> PR\u00c9DIO 24 </h4><div class=\"row\"><div class=\"col-xs-12 col-sm-7\">\n                <strong>Laborat\u00f3rio de Bot\u00e2nica e Ecologia</strong><br> Laborat\u00f3rio com capacidade para 35 alunos, sala de apoio para professores e estufa destinados \u00e0s atividades das disciplinas de bot\u00e2nica e ecologia. Disciplinas atendidas e equivalentes na proposta atual, respectivamente&#58; Bot\u00e2nica de Algas a Pterid\u00f3fitas, Organografia Vegetal, Biologia das Faner\u00f3gamas, Anatomia Vegetal, Fisiologia Vegetal. H\u00e1 um funcion\u00e1rio t\u00e9cnico administrativo para auxiliar nas fun\u00e7\u00f5es do laborat\u00f3rio. </div><div class=\"col-xs-12 col-sm-5\">\n                <img class=\"img-fluid\" src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/predio24.png\" alt=\"\" />\n             </div></div><div> H\u00e1 hoje um interc\u00e2mbio entre pesquisas e monitorias com projetos em parceria com o Herb\u00e1rio do Museu de Ci\u00eancias Naturais da PUC Minas, bem como o uso d a Mata da PUC Minas para suas atividades diretas na universidade. </div><p>\n             <strong>Laborat\u00f3rio de Tratamento da Informa\u00e7\u00e3o em Biologia e de Inform\u00e1tica no Ensino de Ci\u00eancias e Biologia</strong><br> Caracteriza-se pelo seu car\u00e1ter interdisciplinar, j\u00e1 que os professores e alunos de diversas disciplinas da gradua\u00e7\u00e3o e da p\u00f3s-gradua\u00e7\u00e3o, inclusive de outras \u00e1reas, o utilizam para elabora\u00e7\u00e3o e tratamento de fotografias, fotomicroscopia, produ\u00e7\u00e3o de mapas tem\u00e1ticos, produ\u00e7\u00e3o de trabalhos de outras disciplinas, apoio a estrutura\u00e7\u00e3o de eventos, dentre outras a\u00e7\u00f5es. </p><p> O laborat\u00f3rio possui computadores de alto desempenho, c\u00e2meras fotogr\u00e1ficas com objetivas e acess\u00f3rios de \u00faltima gera\u00e7\u00e3o, GPS, softwares de tratamento de imagens e geoprocessamento, fotomicrosc\u00f3pios, projetor multim\u00eddia, sala de apoio e de professores, monitores e t\u00e9cnico. H\u00e1 um funcion\u00e1rio t\u00e9cnico administrativo para auxiliar nas fun\u00e7\u00f5es do laborat\u00f3rio. Neste laborat\u00f3rio desenvolvem-se as disciplinas&#58; Documenta\u00e7\u00e3o em Biologia, Tecnologias e Pr\u00e1ticas Educativas em Ci\u00eancias Biol\u00f3gicas. </p><p>\n             <strong>Laborat\u00f3rio de Zoologia e Paleontologia</strong><br> Laborat\u00f3rios, sala de prepara\u00e7\u00e3o de material e para o apoio destinado \u00e0s atividades das disciplinas e professores do N\u00facleo de Zoologia e cada laborat\u00f3rio tem capacidade para 35 alunos. Possui 30 microsc\u00f3pios e 30 lupas. \u00c9 utilizado apenas pelos alunos do Curso de Ci\u00eancias Biol\u00f3gicas, mas recebe visitas de alunos de outros cursos para realiza\u00e7\u00e3o de atividades. Possuem tamb\u00e9m acervos did\u00e1ticos nas \u00e1reas de zoologia e paleontologia. Nestes laborat\u00f3rios desenvolvem-se pr\u00e1ticas das disciplinas&#58; Zoologia dos Invertebrados N\u00e3o-celomados, Zoologia dos Invertebrados celomados, Protocordados, Peixes e Anf\u00edbios, Sauropsida, Mam\u00edferos, Anatomia Funcional dos Vertebrados e Paleontologia. H\u00e1 um funcion\u00e1rio t\u00e9cnico administrativo para auxiliar nas fun\u00e7\u00f5es do laborat\u00f3rio. Importante dizer que estas disciplinas utilizam os espa\u00e7os do Museu de Ci\u00eancias Naturais da PUC Minas, bem como a Mata da PUC Minas para suas atividades diretas na universidade. </p></div></div></div>\n\n\n",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 4,
+      "Created": "2017-11-10T12:41:25Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-20T13:51:31Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "5.0",
+      "GUID": "1253c579-12c0-4404-8cd8-d3e0a1caa207"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)",
+        "etag": "\"21\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(5)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 5,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "Espa\u00e7os diferenciados",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\"><h4>Espa\u00e7os diferenciados</h4><p> \n            <strong>Banco de Materiais Did\u00e1ticos do Curso de Ci\u00eancias Biol\u00f3gicas</strong> \n            <br> Abriga acervo did\u00e1tico \u2013 modelos, jogos, cartilhas, bibliografia, produzidos pelos acad\u00eamicos e destinados a apoiar as atividades de ensino, pesquisa e extens\u00e3o vinculadas a forma\u00e7\u00e3o inicial, em especial os est\u00e1gios. </p><p> \n            <strong>Centro de Integra\u00e7\u00e3o e Valoriza\u00e7\u00e3o das Atividades Acad\u00eamicas (CEIVA) </strong> \n            <br> </p><div class=\"row\"><div class=\"col-xs-12 col-sm-6\"> Localizado na regi\u00e3o da Mata da PUC Minas, o CEIVA abre uma nova perspectiva que vai de encontro \u00e0s propostas do Projeto Pedag\u00f3gico. Fundamenta-se na valoriza\u00e7\u00e3o de momentos em que o aluno \u00e9 sujeito da pr\u00f3pria aprendizagem e o professor assume uma postura de orientador e facilitador do processo de constru\u00e7\u00e3o do conhecimento. A formula\u00e7\u00e3o de projetos que visem a ruptura da percep\u00e7\u00e3o/a\u00e7\u00e3o de rela\u00e7\u00f5es cartesianas, fragmentadas, estabelece novos rumos do pensar pedag\u00f3gico, contribuindo para uma postura cient\u00edfica e humana. Tais a\u00e7\u00f5es do CEIVA favorecem a efetiva\u00e7\u00e3o de projetos de Pesquisa, Extens\u00e3o e Ensino atrav\u00e9s da inicia\u00e7\u00e3o cient\u00edfica, da extens\u00e3o, est\u00e1gios e monitorias. Em conex\u00e3o com este prop\u00f3sito, o CEIVA apresenta uma proposta inovadora e exemplar, aprovada junto ao CTA do ICBS. </div><div class=\"col-xs-12 col-sm-6\"> \n               <img src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/ceiva.png\" class=\"img-fluid\" alt=\"\" /> \n            </div></div><p></p><p> \n            <strong>Centro de Integra\u00e7\u00e3o para a Sustentabilidade Ambiental (CISAL)</strong> \n            <br> Para a forma\u00e7\u00e3o em Ci\u00eancias Biol\u00f3gicas, este espa\u00e7o do CISAL apresenta-se como estrat\u00e9gico, pois nele est\u00e3o ancorados projetos e programas que potencializam est\u00e1gios, pr\u00e1ticas investigativas e de extens\u00e3o. \n            <img src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/cisal.png\" class=\"img-fluid\" alt=\"\" /> </p><ul><li> Coordena\u00e7\u00e3o do Comit\u00ea Estadual da Reserva da Biosfera da Serra do Espinha\u00e7o \n               <br> A Reserva da Biosfera da Serra do Espinha\u00e7o integra um programa de coopera\u00e7\u00e3o cient\u00edfica internacional (Programa MaB/UNESCO) sobre as intera\u00e7\u00f5es entre o homem e o meio ambiente, afim de promover a conserva\u00e7\u00e3o da biodiversidade e o desenvolvimento sustent\u00e1vel. Sua \u00e1rea de abrang\u00eancia come\u00e7a pelas serras de Ouro preto e Ouro Branco alcan\u00e7ando as serras do Cara\u00e7a, Catas Altas e Bar\u00e3o de Cocais na regi\u00e3o de Santa B\u00e1rbara. Ainda em territ\u00f3rio mineiro est\u00e3o as serras da Piedade, Moeda, Curral e Cip\u00f3, pr\u00f3ximas da regi\u00e3o metropolitana, a serra do Cabral no alto S\u00e3o Francisco al\u00e9m de Diamantina, Concei\u00e7\u00e3o do Mato Dentro, Serro e o Pico do Itamb\u00e9, esse \u00faltimo no alto Jequitinhonha. Ao todo s\u00e3o 53 munic\u00edpios do Estado em uma \u00e1rea de 3.070.000 hectares que resguardam um valioso patrim\u00f4nio natural e cultural do Brasil. </li><li> Participa\u00e7\u00e3o no Plano de Manejo da RPPN Santu\u00e1rio do Cara\u00e7a \n               <br> O Plano de Manejo da Reserva Particular do Patrim\u00f4nio Natural (RPPN) Santu\u00e1rio do Cara\u00e7a foi elaborado para auxiliar a Prov\u00edncia Brasileira da Congrega\u00e7\u00e3o da Miss\u00e3o (propriet\u00e1ria e mantenedora da RPPN), a realizar a melhor gest\u00e3o da \u00e1rea em benef\u00edcio da conserva\u00e7\u00e3o e prote\u00e7\u00e3o dos recursos naturais e de sua biodiversidade, Patrim\u00f4nio da Humanidade. \n               <a href=\"http&#58;//www.icmbio.gov.br/portal/images/stories/docs-planos-de-manejo/rppn_santuario_do_caraca_pm.pdf\">Link para Plano de Manejo</a> </li><li><p> Programa Mensageiros da \u00c1gua \u2013 Funda\u00e7\u00e3o France Libert\u00e9s \n                  <br> O projeto Mensageiros da \u00c1gua, criado pela Funda\u00e7\u00e3o France Libert\u00e9s, objetiva a forma\u00e7\u00e3o de multiplicadores para o trabalho de educa\u00e7\u00e3o ambiental com \u00eanfase na tem\u00e1tica da \u00e1gua. </p><p> Esse projeto, no \u00e2mbito da PUC Minas, contemplou crian\u00e7as e jovens j\u00e1 participantes de outros projetos de extens\u00e3o da Universidade, como a Escola Integrada, o Espa\u00e7o Crian\u00e7a Esperan\u00e7a, al\u00e9m do Programa Institucional de Bolsas de Inicia\u00e7\u00e3o Cient\u00edfica (PIBID), vinculado \u00e0 Pr\u00f3-reitoria de Gradua\u00e7\u00e3o (Prograd), e das empresas juniores PUC Consultoria (cursos de Administra\u00e7\u00e3o e Economia) e Sist\u00eamica (cursos de Ci\u00eancias Biol\u00f3gicas e Geografia). As atividades foram desenvolvidas a partir da parceria entre a PUC Minas, por meio da Pr\u00f3-Reitoria de Extens\u00e3o, o Instituto HSBC Solidariedade e a Funda\u00e7\u00e3o France Libert\u00e9s. </p></li><li> Projeto DCBio Sustent\u00e1vel \n               <br> O DCBio Sustent\u00e1vel \u00e9 um projeto criado no Departamento de Ci\u00eancias Biol\u00f3gicas da PUC Minas, no ano de 2014, com o intuito de implementar a\u00e7\u00f5es estrat\u00e9gicas sustent\u00e1veis na Institui\u00e7\u00e3o condizentes com as diretrizes e metas de uma \u201cUniversidade Sustent\u00e1vel\u201d, valorizando as boas pr\u00e1ticas ambientais institu\u00eddas, fomentando novas a\u00e7\u00f5es e mitigando riscos e impactos na PUC Minas. </li><li> Projeto de Rede Socioambiental do Parauninha \n               <br> Neste Projeto de Pesquisa e Extens\u00e3o, a tem\u00e1tica sociedade, cultura e meio ambiente surge como uma oportunidade relevante de discuss\u00f5es interdisciplinares, de conex\u00e3o de atores e entidades e de proposi\u00e7\u00e3o de metas capazes de valorizar as quest\u00f5es ambientais, com os seus recursos naturais, e os aspectos culturais, em todo o seu dinamismo. </li><li> Projeto Plantando \u00c1gua no Parauninha&#58; Preserva\u00e7\u00e3o e Recupera\u00e7\u00e3o do Recurso H\u00eddrico no Entorno do Parque Estadual da Serra do Intendente \n               <br> Projeto cujo objetivo \u00e9 desenvolver a\u00e7\u00f5es de melhoria e preserva\u00e7\u00e3o da quantidade e qualidade do recurso h\u00eddrico da sub-bacia hidrogr\u00e1fica do rio Parauninha, em Concei\u00e7\u00e3o do Mato Dentro, Minas Gerais. </li><li> Projeto Rede Socioambiental da APA SUL RMBH \n               <br> O enfoque deste projeto de pesquisa cient\u00edfica e extens\u00e3o universit\u00e1ria se fundamenta em dois elementos estruturantes&#58; o das unidades de conserva\u00e7\u00e3o institu\u00eddas (de prote\u00e7\u00e3o integral e as de uso sustent\u00e1vel) e o das comunidades residentes no entorno imediato dessas \u00e1reas protegidas. Projeto Riscos Ambientais da RMBH e Indicadores de Sustentabilidade. </li><li> Projeto TEIAS \u2013 Trabalhos Ecol\u00f3gicos de Integra\u00e7\u00e3o Social \n               <br> Projeto de extens\u00e3o universit\u00e1ria que visa contribuir, dentro de um cen\u00e1rio educacional, para a organiza\u00e7\u00e3o em rede das comunidades conectadas a este sistema, propiciando desenvolvimento de uma cultura cooperativa de produ\u00e7\u00e3o e consumo sustent\u00e1veis. </li><li> Representa\u00e7\u00e3o do Conselho Consultivo do Parque Estadual do Itacolomi e Esta\u00e7\u00e3o Ecol\u00f3gica do Tripu\u00ed \n               <br> Com a finalidade de contribuir com a implanta\u00e7\u00e3o e implementa\u00e7\u00e3o de a\u00e7\u00f5es destinadas \u00e0 consecu\u00e7\u00e3o dos objetivos do Parque Estadual do Itacolomi e da Esta\u00e7\u00e3o Ecol\u00f3gica do Tripu\u00ed, ocorreu a posse do segundo mandato do Conselho Consultivo, que existe desde 2006, das duas unidades de conserva\u00e7\u00e3o. Comp\u00f5em o grupo, al\u00e9m do Instituto Estadual de Florestas (IEF), que administra as unidades de conserva\u00e7\u00e3o, representantes da prefeitura de Ouro Preto e Mariana, bem como de \u00f3rg\u00e3os e institui\u00e7\u00f5es estaduais, comunidade cient\u00edfica, organiza\u00e7\u00f5es n\u00e3o-governamentais (ONGs), universidades (como a PUC Minas), sindicatos e comunidades do entorno. </li><li> Representa\u00e7\u00e3o do Conselho Consultivo do Parque Estadual do Pico do Itamb\u00e9 \n               <br> \n               <p> A cria\u00e7\u00e3o e forma\u00e7\u00e3o do conselho consultivo das unidades de conserva\u00e7\u00e3o do IEF/MG seguem o Sistema Nacional de Unidades de Conserva\u00e7\u00e3o (SNUC) e tem o objetivo de buscar a melhor gest\u00e3o da unidade e sua integra\u00e7\u00e3o com a sociedade. </p><p> Criado pelo decreto n\u00ba 39.398, de 21 de janeiro de 1998, o parque possui riquezas naturais como cachoeiras, cursos d'\u00e1gua e vegeta\u00e7\u00e3o \u00fanicas. A unidade de conserva\u00e7\u00e3o tem uma \u00e1rea de cerca de 4.500 hectares e abrange, em seus dom\u00ednios, v\u00e1rias nascentes e cabeceiras de rios das bacias do Jequitinhonha e Doce. </p></li><li> Representa\u00e7\u00e3o no Mosaico de Unidades de Conserva\u00e7\u00e3o Cip\u00f3-Intendente \n               <br> O Mosaico de Unidades de Conserva\u00e7\u00e3o \u00e9 uma ferramenta de gest\u00e3o integrada, com forma e objetivos previstos pela Lei Federal n\u00ba 9985/00 (Sistema Nacional de Unidades de Conserva\u00e7\u00e3o - SNUC)&#58; \n               <ul><li> \u201cArt. 26. Quando existir um conjunto de unidades de conserva\u00e7\u00e3o de categorias diferentes ou n\u00e3o, pr\u00f3ximas, justapostas ou sobrepostas, e outras \u00e1reas protegidas p\u00fablicas ou privadas, constituindo um mosaico, a gest\u00e3o do conjunto dever\u00e1 ser feita de forma integrada e participativa, considerando-se os seus distintos objetivos de conserva\u00e7\u00e3o, de forma a compatibilizar a presen\u00e7a da biodiversidade, a valoriza\u00e7\u00e3o da sociodiversidade e o desenvolvimento sustent\u00e1vel no contexto regional.\u201d </li></ul></li><li>Representa\u00e7\u00e3o no Projeto Mosaicos do Espinha\u00e7o Meridional</li></ul></div></div></div>",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 5,
+      "Created": "2017-11-10T12:49:32Z",
+      "AuthorId": 111,
+      "Modified": "2017-12-07T16:54:47Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "7.0",
+      "GUID": "c924a3fb-164a-4c19-9ea3-a291c52e60d3"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)",
+        "etag": "\"13\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(6)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 6,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "Diret\u00f3rio Acad\u00eamico (D.A.)",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col\"><h4>Diret\u00f3rio Acad\u00eamico (D.A.)</h4></div></div><div class=\"row\"><div class=\"col\"><p>Os alunos regularmente matriculados na Universidade poder\u00e3o organizar-se em associa\u00e7\u00f5es, Diret\u00f3rio Central dos Estudantes, diret\u00f3rios acad\u00eamicos e gr\u00eamios, cuja composi\u00e7\u00e3o e normas de funcionamento ser\u00e3o estabelecidas nos respectivos Estatutos, observado o disposto na legisla\u00e7\u00e3o aplic\u00e1vel, conforme previsto no Estatuto da Universidade. Por previs\u00e3o legal-institucional, os alunos preservam sua autonomia de organiza\u00e7\u00e3o estudantil, participam de todos os \u00f3rg\u00e3os colegiados da Universidade, e contam com documentos oficiais, especialmente as Portarias 24/2003 e 76/2003, que definem apoio \u00e0 participa\u00e7\u00e3o de alunos em eventos, em suas variadas modalidades.</p></div></div></div>",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 6,
+      "Created": "2017-11-10T12:59:19Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-10T18:48:38Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "3.0",
+      "GUID": "d9feedb9-2859-4853-ab71-b98033d3f8c9"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)",
+        "etag": "\"19\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(7)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 7,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "SIST\u00caMICA \u2013 Empresa J\u00fanior dos Cursos de Ci\u00eancias Biol\u00f3gicas e de Geografia",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\"><h4>SIST\u00caMICA \u2013 Empresa J\u00fanior dos Cursos de Ci\u00eancias Biol\u00f3gicas e de Geografia</h4><div class=\"row\"><div class=\"col-xs-12 col-sm-7\"> A Empresa J\u00fanior do Curso de Ci\u00eancias Biol\u00f3gicas come\u00e7ou suas atividades em outubro de 1997. O registro oficial ocorreu no dia 28 de outubro de 1998. </div><div class=\"col-xs-12 col-sm-5\">\n               <img class=\"img-fluid\" src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/sistemica.png\" alt=\"\" />\n            </div></div><p>Entendendo a import\u00e2ncia da proposta, em 2010, um grupo de alunos se mostrou interessados em reativar a empresa. Nasce desta iniciativa a SIST\u00caMICA \u2013 Empresa J\u00fanior do Curso de Ci\u00eancias Biol\u00f3gicas, incorporando alunos e professores dos cursos de Belo Horizonte e Betim. Atualmente, a Sist\u00eamica incorporou o Curso de Geografia em seu sistema de gest\u00e3o e participa\u00e7\u00e3o dos discentes. </p><p>Hoje, a empresa est\u00e1 instalada adequadamente no CISAL (Pr\u00e9dio 60), detendo um Planejamento Estrat\u00e9gico e participa de iniciativas tais como a Neutraliza\u00e7\u00e3o de Carbono, eventos do DCB e a\u00e7\u00f5es de Educa\u00e7\u00e3o Ambiental, com a participa\u00e7\u00e3o junto ao Programa Mensageiros da \u00c1gua, parceria entre a PUC Minas, o HSBC e a Funda\u00e7\u00e3o Danielle Mitterrand \u2013 France Libert\u00e8s Brasil. </p></div></div></div>",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 7,
+      "Created": "2017-11-10T13:01:21Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-20T13:56:02Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "5.0",
+      "GUID": "c0677cec-b784-4a92-8d1e-c5e706aec44c"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)",
+        "etag": "\"19\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(8)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 8,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "Programa SEMEANDO \u2013 Horta Universit\u00e1ria, Estufa/Sementeira e Composteira",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\"><h4>Programa SEMEANDO \u2013 \n            <small> Horta Universit\u00e1ria, Estufa/Sementeira e Composteira</small> </h4><div class=\"row\"><div class=\"col-xs-12 col-sm-7\"> O Programa Semeando objetiva a estrutura\u00e7\u00e3o de um espa\u00e7o sustent\u00e1vel dentro da PUC Minas, por meio da constru\u00e7\u00e3o de uma sementeira, um minhoc\u00e1rio, um viveiro de mudas, uma horta e uma composteira. Este sistema est\u00e1 localizado no Centro de Integra\u00e7\u00e3o e Valoriza\u00e7\u00e3o das Atividades Acad\u00eamicas (CEIVA) do Departamento de Ci\u00eancias Biol\u00f3gicas (DCB) da PUC Minas, </div><div class=\"col-xs-12 col-sm-5\"> \n               <img class=\"img-fluid\" src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/horta.png\" alt=\"\" /> \n            </div></div></div></div><div class=\"row\"><div class=\"col-xs-12\"> com gest\u00e3o realizada pelo Centro de Integra\u00e7\u00e3o para a Sustentabilidade Ambiental (CISAL) do DCB, pelo projeto de extens\u00e3o DCBio Sustent\u00e1vel e pela Pr\u00f3-Reitoria de Log\u00edstica e Infraestrutura da PUC Minas. </div></div></div>",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 8,
+      "Created": "2017-11-10T13:14:33Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-20T13:55:40Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "5.0",
+      "GUID": "793f1690-856a-4c9f-8d6a-556fd7f4c9d1"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)",
+        "etag": "\"19\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(9)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 9,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "Mata da PUC Minas e Lagoa",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\"><h4>Mata da PUC Minas e Lagoa</h4></div></div><div class=\"row\">\n      <div class=\"col-xs-12 col-md-6 pl-0\">\n         <p> O Campus Cora\u00e7\u00e3o Eucar\u00edstico possui uma reserva de aproximadamente 7,0 hectares de mata nativa, secund\u00e1ria, denominada Mata da PUC. Este reduto de conserva\u00e7\u00e3o \u00e9 hoje, sem d\u00favida, o maior remanescente florestal da regi\u00e3o, configurando-se em um espa\u00e7o muito utilizado em fun\u00e7\u00e3o do seu grande potencial. </p><p> A \u00e1rea da Mata da PUC \u00e9 utilizada como laborat\u00f3rio de pesquisas do Mestrado em Zoologia dos Vertebrados, pr\u00e1ticas investigativas e aulas do curso de Ci\u00eancias Biol\u00f3gicas, bem como em atividades de Educa\u00e7\u00e3o Ambiental do Museu de Ci\u00eancias Naturais da PUC Minas e do Bacharelado em Educa\u00e7\u00e3o Ambiental do Curso. Atualmente, v\u00e1rios projetos de utiliza\u00e7\u00e3o sustent\u00e1vel tem sido desenvolvidos na Mata da PUC, a exemplo do projeto de Educa\u00e7\u00e3o Ambiental com os moradores do entorno e o projeto TEIAS. </p><p> Esta \u00e1rea, na perspectiva do Projeto Pedag\u00f3gico, \u00e9 de interesse direto no processo de forma\u00e7\u00e3o dos alunos do curso, ampliando o princ\u00edpio teoria-pr\u00e1tica. O fomento \u00e0s atividades interdisciplinares, de forma sistematizada e planejada, amplia os espa\u00e7os de forma\u00e7\u00e3o, atrav\u00e9s de projetos que envolvam os alunos, professores, parceiros e comunidade do entorno. Como \u00e1rea verde, est\u00e1 integrada ao CEIVA, sendo um cen\u00e1rio para reflex\u00e3o e a\u00e7\u00e3o atrav\u00e9s da Educa\u00e7\u00e3o Ambiental e favor\u00e1vel \u00e0s atividades das disciplinas de instrumenta\u00e7\u00e3o tais como Tratamento da Informa\u00e7\u00e3o em Biologia, Instrumenta\u00e7\u00f5es em Bot\u00e2nica, Zoologia e de Microorganismos, Inform\u00e1tica no Ensino de Ci\u00eancias e Biologia, dentre outras. </p><p> Outro grande desafio \u00e9 o desenvolvimento de projetos ligados \u00e0 solu\u00e7\u00e3o de problemas junto \u00e0 comunidade do entorno. Programas de educa\u00e7\u00e3o ambiental, sa\u00fade e ecologia s\u00e3o priorit\u00e1rios para a conserva\u00e7\u00e3o da Mata da PUC. A parceria com o Museu de Ci\u00eancias Naturais \u00e9 eminentemente fundamental, uma vez que as a\u00e7\u00f5es nesta \u00e1rea s\u00e3o de interesse coletivo. </p><p> A naturaliza\u00e7\u00e3o do entorno e a loca\u00e7\u00e3o de regi\u00f5es para produ\u00e7\u00e3o de mudas, espa\u00e7os de aulas ao ar livre, contempla\u00e7\u00e3o, cursos de capacita\u00e7\u00e3o e apoio institucional em eventos de outros cursos, valorizam o princ\u00edpio da indissociabilidade do ensino, da pesquisa e da extens\u00e3o. </p></div><div class=\"col-xs-12 col-md-6\"> \n         <img class=\"img-fluid\" src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/mata.png\" alt=\"\" />\n      </div></div></div>",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 9,
+      "Created": "2017-11-10T13:21:22Z",
+      "AuthorId": 111,
+      "Modified": "2017-12-07T15:41:52Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "5.0",
+      "GUID": "42d0fc99-81ba-49dd-ba6c-e75bb7799bb8"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)",
+        "etag": "\"16\"",
+        "type": "SP.Data.PaginasItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/infraestrutura/_api/Web/Lists(guid'88d7be3d-a5cb-408e-a1bc-37040d7d1f55')/Items(10)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 10,
+      "ContentTypeId": "0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D00ED3AD8E28B3C5249A457F1BE29D4209C00F8676F2DCE09E24E8B824936849AD5D5",
+      "Title": "Museu de Ci\u00eancias Naturais PUC Minas",
+      "Comments": null,
+      "PublishingContactId": 111,
+      "PublishingContactEmail": null,
+      "PublishingContactName": null,
+      "PublishingContactPicture": null,
+      "PublishingPageLayout": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "PUC - PageLayout - Ci\u00eancias Biol\u00f3gicas - Internas",
+        "Url": "https://www.pucminas.br/_catalogs/masterpage/puc-pl-ciencias-biologicas-paginas-internas.aspx"
+      },
+      "PublishingIsFurlPage": false,
+      "SeoBrowserTitle": null,
+      "SeoMetaDescription": null,
+      "SeoKeywords": null,
+      "RobotsNoIndex": false,
+      "ArticleByLine": null,
+      "ArticleStartDate": null,
+      "PublishingImageCaption": null,
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"><div class=\"col\"><h4>Museu de Ci\u00eancias Naturais PUC Minas</h4></div></div><div class=\"row\"><div class=\"col\"><p>O projeto de um Museu de Ci\u00eancias Naturais na PUC MINAS foi inteiramente gestado no curso de Ci\u00eancias Biol\u00f3gicas e sua concretiza\u00e7\u00e3o representou o primeiro grande fruto de uma op\u00e7\u00e3o, por fortalecer e investir na \u00e1rea de zoologia do curso. Desde o in\u00edcio da ideia, passando por uma primeira e t\u00edmida inaugura\u00e7\u00e3o em 1983, in\u00fameros esfor\u00e7os foram e vem ainda sendo empregados para torn\u00e1-lo exatamente o que foi planejado. O Museu foi concebido de forma a tornar-se um importante polo de atra\u00e7\u00e3o, conjugando educa\u00e7\u00e3o, pesquisa, extens\u00e3o, cultura e lazer, trazendo a sociedade para o seu conv\u00edvio.</p></div></div><div class=\"row\"><div class=\"col\"> \n          <a href=\"http&#58;//www1.pucminas.br/museu\"><img class=\"img-fluid\" src=\"http&#58;//www1.pucminas.br/cienciasbiologicas/img/museu.png\" alt=\"\" /></a> </div></div></div>",
+      "Conteudo3": null,
+      "Galeria_x0020_de_x0020_Fotos_x0020_do_x0020_SiteId": {
+        "__metadata": {
+          "type": "Collection(Edm.Int32)"
+        },
+        "results": []
+      },
+      "ID": 10,
+      "Created": "2017-11-10T13:30:07Z",
+      "AuthorId": 111,
+      "Modified": "2017-11-20T13:54:08Z",
+      "EditorId": 111,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "4.0",
+      "GUID": "37c04f53-1a32-445d-aefd-a2adcc764252"
+    }]
+  }
+}

@@ -1,0 +1,28 @@
+<figure *ngIf="show" class="home__content-destaques-img">
+  <h3 class="home__content-heading">
+    Destaques
+  </h3>
+  <img class="img-fluid" [src]="dados?.img" alt="">
+  <figcaption class="destaque__subtitle">
+    {{dados?.txt}}
+  </figcaption>
+</figure>
+<div *ngIf="show" class="home__content-destaques-button">
+  <svg (click)="prev()" class="home__content-destaques-button-1">
+    <use attr.xlink:href="{{chevL}}"></use>
+  </svg>
+  <svg (click)="next()" class="home__content-destaques-button-2">
+    <use attr.xlink:href="{{chevR}}"></use>
+  </svg>
+</div>
+<!-- IF Res vazio -->
+<figure *ngIf="!show" class="home__content-destaques-img">
+  <h3 class="home__content-heading">
+    Destaques
+  </h3>
+  <figcaption>
+    <div class="alert alert-danger" role="alert">
+      Desculpe. Nenhum banner publicado.
+    </div>
+  </figcaption>
+</figure>

@@ -1,0 +1,337 @@
+{
+  "d": {
+    "results": [{
+      "__metadata": {
+        "id": "Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)",
+        "etag": "\"7\"",
+        "type": "SP.Data.NoticiasListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(11)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 11,
+      "ContentTypeId": "0x01008E7928D64CD01246AB6915A18B666BA5",
+      "Title": "Teste 2",
+      "AbrirNovaPagina": "N\u00e3o",
+      "UrlAbrirNovaJanela": "http://icbs.pucminas.br/petbiologia/",
+      "Subtitulo": null,
+      "DataPublicacao": "2018-06-07T12:00:00Z",
+      "DataExpiracao": "2016-10-31T02:00:00Z",
+      "imagem": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "http://adm.pucminas.br/cienciasbiologicas/PublishingImages/noticias/n1.png",
+        "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/noticias/n1.png"
+      },
+      "Leia_x0020_Mais": "N\u00e3o",
+      "Conteudo2": "<p>\u200bTeste</p>",
+      "ID": 11,
+      "Modified": "2018-06-07T12:52:11Z",
+      "Created": "2018-06-07T12:32:41Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "adcb5f4f-6328-4dc1-b626-bd235e39e6eb"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)",
+        "etag": "\"3\"",
+        "type": "SP.Data.NoticiasListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(10)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 10,
+      "ContentTypeId": "0x01008E7928D64CD01246AB6915A18B666BA5",
+      "Title": "Teste",
+      "AbrirNovaPagina": "N\u00e3o",
+      "UrlAbrirNovaJanela": "http://icbs.pucminas.br/petbiologia/",
+      "Subtitulo": null,
+      "DataPublicacao": "2018-06-06T22:00:00Z",
+      "DataExpiracao": "2000-02-21T03:00:00Z",
+      "imagem": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "http://adm.pucminas.br/#",
+        "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/destaque-mestrado.png"
+      },
+      "Leia_x0020_Mais": "Sim",
+      "Conteudo2": "<p>\u200bafa</p>",
+      "ID": 10,
+      "Modified": "2018-06-07T12:52:05Z",
+      "Created": "2018-06-06T21:30:25Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "9bfb23b4-b4a1-4115-9ba4-9c3f600189fc"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)",
+        "etag": "\"19\"",
+        "type": "SP.Data.NoticiasListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(1)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 1,
+      "ContentTypeId": "0x01008E7928D64CD01246AB6915A18B666BA5",
+      "Title": "Inaugura\u00e7\u00e3o de Complexo Sustent\u00e1vel na PUC Minas",
+      "AbrirNovaPagina": "N\u00e3o",
+      "UrlAbrirNovaJanela": null,
+      "Subtitulo": null,
+      "DataPublicacao": "2017-08-21T20:00:00Z",
+      "DataExpiracao": "2018-10-31T02:00:00Z",
+      "imagem": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "https://pucminas.br/cienciasbiologicas/PublishingImages/n1.png",
+        "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/noticias/n1.png"
+      },
+      "Leia_x0020_Mais": "Sim",
+      "Conteudo2": "<div class=\"container\"><div class=\"row\"> \n      <strong class=\"ms-rteFontSize-3\">Inaugura\u00e7\u00e3o de Complexo Sustent\u00e1vel na PUC Minas</strong></div><div class=\"row\" style=\"text-align&#58;justify;\">\n      <strong class=\"ms-rteFontSize-3\"></strong><img class=\"img-fluid\" src=\"/cienciasbiologicas/PublishingImages/noticias/n1aberta.png\" alt=\"\" /></div><div class=\"row\" style=\"text-align&#58;justify;\">\n      <br>\n   </div><div class=\"row\" style=\"text-align&#58;justify;\">O projeto de extens\u00e3o DCBio Sustent\u00e1vel inaugurou, no dia 03 de outubro de 2016, o Complexo Sustent\u00e1vel, pr\u00f3ximo aos pr\u00e9dios 27, 37 e 60, e da mata da Universidade. O espa\u00e7o \u00e9 constitu\u00eddo por uma horta org\u00e2nica, uma estufa com sementeira para produ\u00e7\u00e3o de mudas nativas da Mata da PUC Minas e de hortali\u00e7as, um minhoc\u00e1rio para produ\u00e7\u00e3o de h\u00famus, uma composteira, um sistema de capta\u00e7\u00e3o de \u00e1gua de chuva e um jardim sensorial. O Complexo objetiva atender as crescentes demandas de um mundo mais sustent\u00e1vel e consciente a respeito do uso dos recursos naturais, servindo como um ambiente de integra\u00e7\u00e3o social e de educa\u00e7\u00e3o ambiental e educa\u00e7\u00e3o para a sustentabilidade.&#160;</div><div class=\"row\">\n      <br>\n   </div><div class=\"row\"> \n      <a href=\"https&#58;//www.facebook.com/dcbiosustentavel/\">\u00bb Saiba mais.</a>\u200b </div></div>",
+      "ID": 1,
+      "Modified": "2018-06-07T13:12:51Z",
+      "Created": "2017-08-21T19:21:10Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "52579144-9079-49a1-b2eb-cf7bb3f0eff8"
+    }, {
+      "__metadata": {
+        "id": "Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)",
+        "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)",
+        "etag": "\"8\"",
+        "type": "SP.Data.NoticiasListItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/ContentType"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/File"
+        }
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://www.pucminas.br/cienciasbiologicas/_api/Web/Lists(guid'213054f0-0a0d-43e7-94fe-a8811668926a')/Items(6)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 6,
+      "ContentTypeId": "0x01008E7928D64CD01246AB6915A18B666BA5",
+      "Title": "Sistema de Capta\u00e7\u00e3o de \u00c1gua de Chuva \u00e9 instalado em Complexo Sustent\u00e1vel no campus Cora\u00e7\u00e3o Eucar\u00edstico da PUC Minas",
+      "AbrirNovaPagina": "N\u00e3o",
+      "UrlAbrirNovaJanela": null,
+      "Subtitulo": null,
+      "DataPublicacao": "2017-08-21T20:00:00Z",
+      "DataExpiracao": "2018-12-21T02:00:00Z",
+      "imagem": {
+        "__metadata": {
+          "type": "SP.FieldUrlValue"
+        },
+        "Description": "Capta\u00e7\u00e3o",
+        "Url": "https://www.pucminas.br/cienciasbiologicas/PublishingImages/noticias/captacao.png"
+      },
+      "Leia_x0020_Mais": "Sim",
+      "Conteudo2": "<p> \n   <strong>Sistema de Capta\u00e7\u00e3o de \u00c1gua de Chuva \u00e9 instalado em&#160;</strong><br><strong>Complexo Sustent\u00e1vel no&#160;campus&#160;Cora\u00e7\u00e3o Eucar\u00edstico da PUC Minas</strong></p> \n<img class=\"img-fluid\" src=\"/cienciasbiologicas/PublishingImages/noticias/captacao-aberta.png\" alt=\"\" /> \n<p style=\"text-align&#58;justify;\">Por meio de um projeto de pesquisa, desenvolvido por extensionistas, t\u00e9cnicos e professores do eixo &quot;\u00c1gua&quot;, do projeto DCBio Sustent\u00e1vel, efetivou-se, no m\u00eas de setembro de 2016, a instala\u00e7\u00e3o de um sistema de capta\u00e7\u00e3o de \u00e1gua da chuva, contando com a parceria da Pr\u00f3-Reitoria de Log\u00edstica e Infraestrutura da PUC Minas. Nesse processo, a \u00e1gua \u00e9 captada por meio de um sistema de canos instalados sobre o telhado do pr\u00e9dio 60 (Centro de Integra\u00e7\u00e3o para a Sustentabilidade Ambiental \u2013 CISAL) e \u00e9 direcionada para um tanque de armazenamento com capacidade para 15mil litros, instalado pr\u00f3ximo \u00e0 Horta Universit\u00e1ria. A \u00e1gua captada ser\u00e1 utilizada, al\u00e9m da Horta, em todo o Complexo Sustent\u00e1vel.</p><p style=\"text-align&#58;justify;\"> \n   <a href=\"https&#58;//www.facebook.com/dcbiosustentavel/\">\u00bb Saiba mais.</a></p><p></p>",
+      "ID": 6,
+      "Modified": "2018-06-07T13:12:58Z",
+      "Created": "2017-08-21T19:25:35Z",
+      "AuthorId": 111,
+      "EditorId": 111,
+      "OData__UIVersionString": "1.0",
+      "Attachments": false,
+      "GUID": "6d8bd3ac-1a1a-4ba8-8a3b-02a6beb02154"
+    }]
+  }
+}
