@@ -33,11 +33,17 @@ export class GraduacaoComponent implements OnInit {
 
   ngOnInit() {
     this.getNavHeadLine();
-    const page = this.activatedRoute.snapshot.queryParams['file'];
+    const page = this.activatedRoute.snapshot.params.id;
     this.getPages();
     console.log(page);
     if (page) {
       this.getPageById(page);
+    }
+  }
+
+  getId(data) {
+    if (data.PageData) {
+      return data.PageData['ID'];
     }
   }
 

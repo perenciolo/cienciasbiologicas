@@ -27,10 +27,12 @@ const routes: Routes = [
   },
   {
     path: 'agraduacao',
-    component: GraduacaoComponent
-  },
-  {
-    path: 'agraduacao?file=:id',
+    children: [
+      {
+        path: ':id',
+        component: GraduacaoComponent
+      }
+    ],
     component: GraduacaoComponent
   },
   {
