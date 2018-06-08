@@ -30,6 +30,10 @@ const routes: Routes = [
     component: GraduacaoComponent
   },
   {
+    path: 'agraduacao?file=:id',
+    component: GraduacaoComponent
+  },
+  {
     path: 'odepartamento',
     component: DepartamentoComponent
   },
@@ -44,4 +48,4 @@ const routes: Routes = [
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
